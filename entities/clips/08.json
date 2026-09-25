@@ -1,0 +1,2453 @@
+{
+  "zaag": {
+    "id": "zaag",
+    "trackId": "xqc",
+    "name": "Undergroove 0001 [2025-10-31 024039].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 622.0,
+    "offsetBeats": 17.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Undergroove 0001 [2025-10-31 024039].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 5770276,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaaw": {
+    "id": "zaaw",
+    "trackId": "gbm",
+    "name": "Am - Dark Proggy [2023-04-26 201456].aif",
+    "startBeat": 240.1875,
+    "lengthBeats": 86.33333333333333,
+    "offsetBeats": 4.4375,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Am - Dark Proggy [2023-04-26 201456].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 1536000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 0,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zabj": {
+    "id": "zabj",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 25.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zabz": {
+    "id": "zabz",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 57.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zacm": {
+    "id": "zacm",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 83.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zadh": {
+    "id": "zadh",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 125.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zadx": {
+    "id": "zadx",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 157.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaek": {
+    "id": "zaek",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 183.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zafn": {
+    "id": "zafn",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 241.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaga": {
+    "id": "zaga",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 267.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zagq": {
+    "id": "zagq",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 299.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zahl": {
+    "id": "zahl",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 341.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaio": {
+    "id": "zaio",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 399.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zajb": {
+    "id": "zajb",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 425.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zajr": {
+    "id": "zajr",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 457.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zake": {
+    "id": "zake",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 483.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaku": {
+    "id": "zaku",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 547.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zalp": {
+    "id": "zalp",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 589.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zamc": {
+    "id": "zamc",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 615.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zams": {
+    "id": "zams",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 645.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zanf": {
+    "id": "zanf",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 733.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zanv": {
+    "id": "zanv",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 765.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaoi": {
+    "id": "zaoi",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 791.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaoy": {
+    "id": "zaoy",
+    "trackId": "sqq",
+    "name": "15-KORG MS-20 V 13-Group - clip",
+    "startBeat": 528.0,
+    "lengthBeats": 48.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "epscdj",
+          "note": 72,
+          "velocity": 100,
+          "beat": 0.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epruos",
+          "note": 75,
+          "velocity": 100,
+          "beat": 0.25,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epruor",
+          "note": 76,
+          "velocity": 100,
+          "beat": 0.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "eprths",
+          "note": 72,
+          "velocity": 100,
+          "beat": 1.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "eprtlr",
+          "note": 75,
+          "velocity": 100,
+          "beat": 1.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "eprrxy",
+          "note": 76,
+          "velocity": 100,
+          "beat": 1.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "eprwkn",
+          "note": 75,
+          "velocity": 100,
+          "beat": 2.25,
+          "durationBeats": 0.25,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zapd": {
+    "id": "zapd",
+    "trackId": "ncf",
+    "name": "Cm - Jazz Speaks [2023-04-26 205839].aif",
+    "startBeat": 450.625,
+    "lengthBeats": 3.5,
+    "offsetBeats": 250.625,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Cm - Jazz Speaks [2023-04-26 205839].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 15463892,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 0.77,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zapt": {
+    "id": "zapt",
+    "trackId": "ylt",
+    "name": "18-Statement Lead - clip",
+    "startBeat": 0.0,
+    "lengthBeats": 280.4270833333333,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "emqqrc",
+          "note": 60,
+          "velocity": 100,
+          "beat": 80.53604754620379,
+          "durationBeats": 0.22752377830502832,
+          "channel": 0
+        },
+        {
+          "id": "emqpip",
+          "note": 62,
+          "velocity": 100,
+          "beat": 84.52619047619048,
+          "durationBeats": 0.2754760864135864,
+          "channel": 0
+        },
+        {
+          "id": "emqpio",
+          "note": 64,
+          "velocity": 100,
+          "beat": 87.56776192557443,
+          "durationBeats": 0.15114286754911754,
+          "channel": 0
+        },
+        {
+          "id": "emrfyf",
+          "note": 60,
+          "velocity": 100,
+          "beat": 96.5662857975358,
+          "durationBeats": 0.17695221445221446,
+          "channel": 0
+        },
+        {
+          "id": "emrekm",
+          "note": 61,
+          "velocity": 100,
+          "beat": 100.57495239135864,
+          "durationBeats": 0.21747627372627373,
+          "channel": 0
+        },
+        {
+          "id": "emrekt",
+          "note": 72,
+          "velocity": 100,
+          "beat": 103.68490467865468,
+          "durationBeats": 0.24428592241092242,
+          "channel": 0
+        },
+        {
+          "id": "emrixi",
+          "note": 71,
+          "velocity": 100,
+          "beat": 107.43738084831836,
+          "durationBeats": 0.24285714285714285,
+          "channel": 0
+        },
+        {
+          "id": "emrhjp",
+          "note": 72,
+          "velocity": 100,
+          "beat": 108.91276197760573,
+          "durationBeats": 0.25180938852813856,
+          "channel": 0
+        },
+        {
+          "id": "emrhjo",
+          "note": 60,
+          "velocity": 100,
+          "beat": 110.17490478271728,
+          "durationBeats": 0.19757143897768897,
+          "channel": 0
+        },
+        {
+          "id": "emqzjn",
+          "note": 69,
+          "velocity": 100,
+          "beat": 111.82685725732601,
+          "durationBeats": 0.16690470987345987,
+          "channel": 0
+        },
+        {
+          "id": "emqxve",
+          "note": 67,
+          "velocity": 100,
+          "beat": 112.7660474941725,
+          "durationBeats": 0.24338109806859806,
+          "channel": 0
+        },
+        {
+          "id": "emqxvd",
+          "note": 64,
+          "velocity": 100,
+          "beat": 115.29071423368299,
+          "durationBeats": 0.3495239135864136,
+          "channel": 0
+        },
+        {
+          "id": "emrcii",
+          "note": 60,
+          "velocity": 100,
+          "beat": 116.39728578712953,
+          "durationBeats": 0.2782379079254079,
+          "channel": 0
+        },
+        {
+          "id": "emrcip",
+          "note": 72,
+          "velocity": 100,
+          "beat": 118.88752393439893,
+          "durationBeats": 0.23966658341658342,
+          "channel": 0
+        },
+        {
+          "id": "emraug",
+          "note": 72,
+          "velocity": 100,
+          "beat": 121.67047613844488,
+          "durationBeats": 0.261095415001665,
+          "channel": 0
+        },
+        {
+          "id": "empuyf",
+          "note": 74,
+          "velocity": 100,
+          "beat": 123.68461902680653,
+          "durationBeats": 0.12595243298368297,
+          "channel": 0
+        },
+        {
+          "id": "empuye",
+          "note": 74,
+          "velocity": 100,
+          "beat": 124.48285724691974,
+          "durationBeats": 0.16404741092241093,
+          "channel": 0
+        },
+        {
+          "id": "emptkt",
+          "note": 74,
+          "velocity": 100,
+          "beat": 125.02233339577089,
+          "durationBeats": 0.1982855685980686,
+          "channel": 0
+        },
+        {
+          "id": "empyhe",
+          "note": 74,
+          "velocity": 100,
+          "beat": 125.9833809419747,
+          "durationBeats": 0.2089048971861472,
+          "channel": 0
+        },
+        {
+          "id": "empyhd",
+          "note": 74,
+          "velocity": 100,
+          "beat": 127.2379048035298,
+          "durationBeats": 0.2517141712454212,
+          "channel": 0
+        },
+        {
+          "id": "empwse",
+          "note": 74,
+          "velocity": 100,
+          "beat": 128.3736190892441,
+          "durationBeats": 0.20990467865467866,
+          "channel": 0
+        },
+        {
+          "id": "empwsl",
+          "note": 74,
+          "velocity": 100,
+          "beat": 128.91352371586746,
+          "durationBeats": 0.2096190268065268,
+          "channel": 0
+        },
+        {
+          "id": "emppby",
+          "note": 74,
+          "velocity": 100,
+          "beat": 129.48400011446887,
+          "durationBeats": 0.14023788711288712,
+          "channel": 0
+        },
+        {
+          "id": "empnpl",
+          "note": 74,
+          "velocity": 100,
+          "beat": 130.06085711163837,
+          "durationBeats": 0.20057156385281386,
+          "channel": 0
+        },
+        {
+          "id": "empnpk",
+          "note": 60,
+          "velocity": 100,
+          "beat": 131.10323816808193,
+          "durationBeats": 0.27095222485847487,
+          "channel": 0
+        },
+        {
+          "id": "empsch",
+          "note": 60,
+          "velocity": 100,
+          "beat": 132.182428508991,
+          "durationBeats": 0.23580950299700298,
+          "channel": 0
+        },
+        {
+          "id": "emprqg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 133.7383808899434,
+          "durationBeats": 0.27785729895104894,
+          "channel": 0
+        },
+        {
+          "id": "emprqf",
+          "note": 60,
+          "velocity": 100,
+          "beat": 134.66280958624708,
+          "durationBeats": 0.2099522872960373,
+          "channel": 0
+        },
+        {
+          "id": "emqigm",
+          "note": 60,
+          "velocity": 100,
+          "beat": 135.84614291958042,
+          "durationBeats": 0.17585695554445555,
+          "channel": 0
+        },
+        {
+          "id": "emqigt",
+          "note": 60,
+          "velocity": 100,
+          "beat": 136.55690481393606,
+          "durationBeats": 0.2706189643689644,
+          "channel": 0
+        },
+        {
+          "id": "emqgtq",
+          "note": 60,
+          "velocity": 100,
+          "beat": 137.32728573509823,
+          "durationBeats": 0.23752367424242424,
+          "channel": 0
+        },
+        {
+          "id": "emqlgv",
+          "note": 60,
+          "velocity": 100,
+          "beat": 137.83509511322012,
+          "durationBeats": 0.2890476710789211,
+          "channel": 0
+        },
+        {
+          "id": "emqlgu",
+          "note": 60,
+          "velocity": 100,
+          "beat": 138.38342855061606,
+          "durationBeats": 0.2354762425074925,
+          "channel": 0
+        },
+        {
+          "id": "emqjtj",
+          "note": 60,
+          "velocity": 100,
+          "beat": 139.03171437937064,
+          "durationBeats": 0.19199992715617717,
+          "channel": 0
+        },
+        {
+          "id": "emqckg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 139.73019038253412,
+          "durationBeats": 0.12028570387945388,
+          "channel": 0
+        },
+        {
+          "id": "emqckf",
+          "note": 60,
+          "velocity": 100,
+          "beat": 140.82785703879455,
+          "durationBeats": 0.10104765026640027,
+          "channel": 0
+        },
+        {
+          "id": "emqawm",
+          "note": 60,
+          "velocity": 100,
+          "beat": 143.010809502997,
+          "durationBeats": 0.19228583916083916,
+          "channel": 0
+        },
+        {
+          "id": "emqflv",
+          "note": 60,
+          "velocity": 100,
+          "beat": 145.28576189435563,
+          "durationBeats": 0.10552390318015319,
+          "channel": 0
+        },
+        {
+          "id": "emqflu",
+          "note": 60,
+          "velocity": 100,
+          "beat": 147.43014277389278,
+          "durationBeats": 0.23533341658341658,
+          "channel": 0
+        },
+        {
+          "id": "emqdvp",
+          "note": 60,
+          "velocity": 100,
+          "beat": 148.49890474109225,
+          "durationBeats": 0.21828562062937062,
+          "channel": 0
+        },
+        {
+          "id": "emqdvo",
+          "note": 60,
+          "velocity": 100,
+          "beat": 149.6961905282218,
+          "durationBeats": 0.2282857767232767,
+          "channel": 0
+        },
+        {
+          "id": "emoybr",
+          "note": 60,
+          "velocity": 100,
+          "beat": 150.48985701798202,
+          "durationBeats": 0.2029049075924076,
+          "channel": 0
+        },
+        {
+          "id": "emowni",
+          "note": 60,
+          "velocity": 100,
+          "beat": 151.59242866508492,
+          "durationBeats": 0.21171406718281718,
+          "channel": 0
+        },
+        {
+          "id": "emownh",
+          "note": 60,
+          "velocity": 100,
+          "beat": 153.06671427530802,
+          "durationBeats": 0.18071433774558773,
+          "channel": 0
+        },
+        {
+          "id": "empaoe",
+          "note": 60,
+          "velocity": 100,
+          "beat": 155.09728578712955,
+          "durationBeats": 0.15419034090909092,
+          "channel": 0
+        },
+        {
+          "id": "empaol",
+          "note": 62,
+          "velocity": 100,
+          "beat": 156.88066672910423,
+          "durationBeats": 0.23509511322011323,
+          "channel": 0
+        },
+        {
+          "id": "emozco",
+          "note": 60,
+          "velocity": 100,
+          "beat": 157.93214285714285,
+          "durationBeats": 0.2693808795371295,
+          "channel": 0
+        },
+        {
+          "id": "emorkf",
+          "note": 60,
+          "velocity": 100,
+          "beat": 159.13085716366967,
+          "durationBeats": 0.2735714806027306,
+          "channel": 0
+        },
+        {
+          "id": "emorke",
+          "note": 60,
+          "velocity": 100,
+          "beat": 160.9352381993007,
+          "durationBeats": 0.20466668747918748,
+          "channel": 0
+        },
+        {
+          "id": "emopwt",
+          "note": 60,
+          "velocity": 100,
+          "beat": 162.70519038253414,
+          "durationBeats": 0.16357158466533467,
+          "channel": 0
+        },
+        {
+          "id": "emoulu",
+          "note": 60,
+          "velocity": 100,
+          "beat": 164.96976200882452,
+          "durationBeats": 0.30038086913086914,
+          "channel": 0
+        },
+        {
+          "id": "emoult",
+          "note": 60,
+          "velocity": 100,
+          "beat": 167.05690481393606,
+          "durationBeats": 0.2440000104062604,
+          "channel": 0
+        },
+        {
+          "id": "emotee",
+          "note": 60,
+          "velocity": 100,
+          "beat": 168.86033341658342,
+          "durationBeats": 0.28619037212787213,
+          "channel": 0
+        },
+        {
+          "id": "emotel",
+          "note": 60,
+          "velocity": 100,
+          "beat": 171.06538097319347,
+          "durationBeats": 0.23585711163836165,
+          "channel": 0
+        },
+        {
+          "id": "empjwo",
+          "note": 60,
+          "velocity": 100,
+          "beat": 173.58909527972028,
+          "durationBeats": 0.20142851939726938,
+          "channel": 0
+        },
+        {
+          "id": "empikb",
+          "note": 60,
+          "velocity": 100,
+          "beat": 176.0452380952381,
+          "durationBeats": 0.1933808379120879,
+          "channel": 0
+        },
+        {
+          "id": "empika",
+          "note": 60,
+          "velocity": 100,
+          "beat": 178.61971440018314,
+          "durationBeats": 0.21590466824841825,
+          "channel": 0
+        },
+        {
+          "id": "empmul",
+          "note": 60,
+          "velocity": 100,
+          "beat": 180.09385718448218,
+          "durationBeats": 0.1590950715950716,
+          "channel": 0
+        },
+        {
+          "id": "emplhi",
+          "note": 62,
+          "velocity": 100,
+          "beat": 181.03519059065934,
+          "durationBeats": 0.3710474421411921,
+          "channel": 0
+        },
+        {
+          "id": "emplhh",
+          "note": 60,
+          "velocity": 100,
+          "beat": 182.68333333333334,
+          "durationBeats": 0.22823816808191807,
+          "channel": 0
+        },
+        {
+          "id": "empkua",
+          "note": 74,
+          "velocity": 100,
+          "beat": 184.101857257326,
+          "durationBeats": 0.30390468906093904,
+          "channel": 0
+        },
+        {
+          "id": "empkuh",
+          "note": 72,
+          "velocity": 100,
+          "beat": 185.3144285402098,
+          "durationBeats": 0.04614291958041958,
+          "channel": 0
+        },
+        {
+          "id": "empdfq",
+          "note": 72,
+          "velocity": 100,
+          "beat": 186.59538092116216,
+          "durationBeats": 0.21076189435564435,
+          "channel": 0
+        },
+        {
+          "id": "empbtt",
+          "note": 72,
+          "velocity": 100,
+          "beat": 187.01061906843157,
+          "durationBeats": 0.24080945096570097,
+          "channel": 0
+        },
+        {
+          "id": "empbts",
+          "note": 71,
+          "velocity": 100,
+          "beat": 187.40380947177823,
+          "durationBeats": 0.1994286963036963,
+          "channel": 0
+        },
+        {
+          "id": "empgmt",
+          "note": 71,
+          "velocity": 100,
+          "beat": 187.83390463702963,
+          "durationBeats": 0.08542863386613386,
+          "channel": 0
+        },
+        {
+          "id": "empexu",
+          "note": 71,
+          "velocity": 100,
+          "beat": 188.15795246420245,
+          "durationBeats": 0.1292855581918082,
+          "channel": 0
+        },
+        {
+          "id": "empext",
+          "note": 71,
+          "velocity": 100,
+          "beat": 188.46319045537797,
+          "durationBeats": 0.15366664585414586,
+          "channel": 0
+        },
+        {
+          "id": "emnzci",
+          "note": 65,
+          "velocity": 100,
+          "beat": 188.81390484515484,
+          "durationBeats": 0.26733318764568764,
+          "channel": 0
+        },
+        {
+          "id": "emnzcp",
+          "note": 65,
+          "velocity": 100,
+          "beat": 189.50842855061606,
+          "durationBeats": 0.24276192557442558,
+          "channel": 0
+        },
+        {
+          "id": "emnxis",
+          "note": 65,
+          "velocity": 100,
+          "beat": 190.10004760864135,
+          "durationBeats": 0.2663334061771562,
+          "channel": 0
+        },
+        {
+          "id": "emobwn",
+          "note": 65,
+          "velocity": 100,
+          "beat": 190.6636189331502,
+          "durationBeats": 0.21785714285714286,
+          "channel": 0
+        },
+        {
+          "id": "emobwm",
+          "note": 65,
+          "velocity": 100,
+          "beat": 191.26304762945387,
+          "durationBeats": 0.2412381888944389,
+          "channel": 0
+        },
+        {
+          "id": "emoamt",
+          "note": 65,
+          "velocity": 100,
+          "beat": 191.8473333957709,
+          "durationBeats": 0.24709509240759242,
+          "channel": 0
+        },
+        {
+          "id": "emoams",
+          "note": 65,
+          "velocity": 100,
+          "beat": 192.43271416083917,
+          "durationBeats": 0.24314305486180487,
+          "channel": 0
+        },
+        {
+          "id": "emnswv",
+          "note": 64,
+          "velocity": 100,
+          "beat": 193.32552369505495,
+          "durationBeats": 0.38285724691974693,
+          "channel": 0
+        },
+        {
+          "id": "emnrim",
+          "note": 64,
+          "velocity": 100,
+          "beat": 194.19647618006994,
+          "durationBeats": 0.28980940934065935,
+          "channel": 0
+        },
+        {
+          "id": "emnrit",
+          "note": 64,
+          "velocity": 100,
+          "beat": 194.74666661463536,
+          "durationBeats": 0.27690486596736597,
+          "channel": 0
+        },
+        {
+          "id": "emnvra",
+          "note": 60,
+          "velocity": 100,
+          "beat": 202.6855714597902,
+          "durationBeats": 0.19280953421578423,
+          "channel": 0
+        },
+        {
+          "id": "emnucr",
+          "note": 60,
+          "velocity": 100,
+          "beat": 203.69099988553114,
+          "durationBeats": 1.049714348151848,
+          "channel": 0
+        },
+        {
+          "id": "emnucq",
+          "note": 62,
+          "velocity": 100,
+          "beat": 204.77219056984683,
+          "durationBeats": 0.14461892274392274,
+          "channel": 0
+        },
+        {
+          "id": "emoktv",
+          "note": 62,
+          "velocity": 100,
+          "beat": 205.17066657301032,
+          "durationBeats": 0.36657144938394937,
+          "channel": 0
+        },
+        {
+          "id": "emoktu",
+          "note": 62,
+          "velocity": 100,
+          "beat": 206.06400006243757,
+          "durationBeats": 0.2630952380952381,
+          "channel": 0
+        },
+        {
+          "id": "emojjt",
+          "note": 62,
+          "velocity": 100,
+          "beat": 206.69438087953714,
+          "durationBeats": 0.2728094821844822,
+          "channel": 0
+        },
+        {
+          "id": "emonwi",
+          "note": 62,
+          "velocity": 100,
+          "beat": 207.21900001040626,
+          "durationBeats": 0.25604759823509826,
+          "channel": 0
+        },
+        {
+          "id": "emonwp",
+          "note": 64,
+          "velocity": 100,
+          "beat": 207.84847626332,
+          "durationBeats": 0.24485696595071596,
+          "channel": 0
+        },
+        {
+          "id": "emomcs",
+          "note": 64,
+          "velocity": 100,
+          "beat": 208.54938082750581,
+          "durationBeats": 0.21904761904761905,
+          "channel": 0
+        },
+        {
+          "id": "emoeor",
+          "note": 64,
+          "velocity": 100,
+          "beat": 209.26038102522477,
+          "durationBeats": 0.1454285298035298,
+          "channel": 0
+        },
+        {
+          "id": "emoeoq",
+          "note": 64,
+          "velocity": 100,
+          "beat": 209.90785724691975,
+          "durationBeats": 0.18823806401931403,
+          "channel": 0
+        },
+        {
+          "id": "emoczz",
+          "note": 65,
+          "velocity": 100,
+          "beat": 210.64461892274392,
+          "durationBeats": 0.2520000832500833,
+          "channel": 0
+        },
+        {
+          "id": "emoczy",
+          "note": 65,
+          "velocity": 100,
+          "beat": 211.343238011988,
+          "durationBeats": 0.214190497002997,
+          "channel": 0
+        },
+        {
+          "id": "emohqv",
+          "note": 63,
+          "velocity": 100,
+          "beat": 213.33876201923076,
+          "durationBeats": 0.22714264901764902,
+          "channel": 0
+        },
+        {
+          "id": "emogcm",
+          "note": 63,
+          "velocity": 100,
+          "beat": 213.94847626332,
+          "durationBeats": 0.20195221445221445,
+          "channel": 0
+        },
+        {
+          "id": "emogct",
+          "note": 61,
+          "velocity": 100,
+          "beat": 214.61352371586747,
+          "durationBeats": 0.2772857350982351,
+          "channel": 0
+        },
+        {
+          "id": "emnahy",
+          "note": 61,
+          "velocity": 100,
+          "beat": 215.10223812645688,
+          "durationBeats": 0.18514272186147185,
+          "channel": 0
+        },
+        {
+          "id": "emnacb",
+          "note": 63,
+          "velocity": 100,
+          "beat": 215.93142846736598,
+          "durationBeats": 0.2205716158841159,
+          "channel": 0
+        },
+        {
+          "id": "emnaca",
+          "note": 63,
+          "velocity": 100,
+          "beat": 216.3180475774226,
+          "durationBeats": 0.3004287379287379,
+          "channel": 0
+        },
+        {
+          "id": "emneqd",
+          "note": 60,
+          "velocity": 100,
+          "beat": 216.69347631535132,
+          "durationBeats": 0.29385692432567434,
+          "channel": 0
+        },
+        {
+          "id": "emneqc",
+          "note": 63,
+          "velocity": 100,
+          "beat": 217.15847615925742,
+          "durationBeats": 0.1593809835997336,
+          "channel": 0
+        },
+        {
+          "id": "emnddp",
+          "note": 60,
+          "velocity": 100,
+          "beat": 217.78909527972027,
+          "durationBeats": 0.262285631035631,
+          "channel": 0
+        },
+        {
+          "id": "emmvoi",
+          "note": 63,
+          "velocity": 100,
+          "beat": 218.3661905802531,
+          "durationBeats": 0.2011904761904762,
+          "channel": 0
+        },
+        {
+          "id": "emmvop",
+          "note": 60,
+          "velocity": 100,
+          "beat": 220.13900006243756,
+          "durationBeats": 0.2096190268065268,
+          "channel": 0
+        },
+        {
+          "id": "emmucc",
+          "note": 63,
+          "velocity": 100,
+          "beat": 220.86428571428573,
+          "durationBeats": 0.25499994796869796,
+          "channel": 0
+        },
+        {
+          "id": "emmyin",
+          "note": 67,
+          "velocity": 100,
+          "beat": 222.2678095342158,
+          "durationBeats": 0.229333426989677,
+          "channel": 0
+        },
+        {
+          "id": "emmyim",
+          "note": 63,
+          "velocity": 100,
+          "beat": 223.31842844655344,
+          "durationBeats": 0.13590498043623045,
+          "channel": 0
+        },
+        {
+          "id": "emmwwh",
+          "note": 60,
+          "velocity": 100,
+          "beat": 223.36328567266068,
+          "durationBeats": 0.24361914127539128,
+          "channel": 0
+        },
+        {
+          "id": "emmwwg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 224.68609515484516,
+          "durationBeats": 0.33833354145854144,
+          "channel": 0
+        },
+        {
+          "id": "emnnmn",
+          "note": 63,
+          "velocity": 100,
+          "beat": 224.97342865467866,
+          "durationBeats": 0.3759045641858142,
+          "channel": 0
+        },
+        {
+          "id": "emnmaq",
+          "note": 67,
+          "velocity": 100,
+          "beat": 225.27657134532134,
+          "durationBeats": 0.3366667186979687,
+          "channel": 0
+        },
+        {
+          "id": "emnmax",
+          "note": 60,
+          "velocity": 100,
+          "beat": 225.67323822011323,
+          "durationBeats": 0.3404761904761905,
+          "channel": 0
+        },
+        {
+          "id": "emnqqo",
+          "note": 63,
+          "velocity": 100,
+          "beat": 225.9354762425075,
+          "durationBeats": 0.33433337495837495,
+          "channel": 0
+        },
+        {
+          "id": "emnqqn",
+          "note": 67,
+          "velocity": 100,
+          "beat": 226.20752372627373,
+          "durationBeats": 0.3236190892440892,
+          "channel": 0
+        },
+        {
+          "id": "emnouu",
+          "note": 60,
+          "velocity": 100,
+          "beat": 226.53833328130204,
+          "durationBeats": 0.301904865967366,
+          "channel": 0
+        },
+        {
+          "id": "emnhfv",
+          "note": 63,
+          "velocity": 100,
+          "beat": 226.80147612803862,
+          "durationBeats": 0.3664762321012321,
+          "channel": 0
+        },
+        {
+          "id": "emnhfu",
+          "note": 67,
+          "velocity": 100,
+          "beat": 227.10971424408925,
+          "durationBeats": 0.2422382305194805,
+          "channel": 0
+        },
+        {
+          "id": "emnfth",
+          "note": 60,
+          "velocity": 100,
+          "beat": 227.34466679154178,
+          "durationBeats": 0.37780943015318014,
+          "channel": 0
+        },
+        {
+          "id": "emnkii",
+          "note": 63,
+          "velocity": 100,
+          "beat": 227.6219522664835,
+          "durationBeats": 0.3108573717948718,
+          "channel": 0
+        },
+        {
+          "id": "emnkip",
+          "note": 67,
+          "velocity": 100,
+          "beat": 227.85176177988677,
+          "durationBeats": 0.358666853979354,
+          "channel": 0
+        },
+        {
+          "id": "emniwc",
+          "note": 60,
+          "velocity": 100,
+          "beat": 228.19328562062938,
+          "durationBeats": 0.3387144105894106,
+          "channel": 0
+        },
+        {
+          "id": "emmdbx",
+          "note": 63,
+          "velocity": 100,
+          "beat": 228.45738090034965,
+          "durationBeats": 0.3920954045954046,
+          "channel": 0
+        },
+        {
+          "id": "emmdbw",
+          "note": 67,
+          "velocity": 100,
+          "beat": 228.71466658341657,
+          "durationBeats": 0.3030001248751249,
+          "channel": 0
+        },
+        {
+          "id": "emmbfv",
+          "note": 60,
+          "velocity": 100,
+          "beat": 229.06366654179155,
+          "durationBeats": 0.35200008325008325,
+          "channel": 0
+        },
+        {
+          "id": "emmbfu",
+          "note": 63,
+          "velocity": 100,
+          "beat": 229.3494286963037,
+          "durationBeats": 0.3009045641858142,
+          "channel": 0
+        },
+        {
+          "id": "emmfuf",
+          "note": 67,
+          "velocity": 100,
+          "beat": 229.4963809627872,
+          "durationBeats": 0.3501428259240759,
+          "channel": 0
+        },
+        {
+          "id": "emmeii",
+          "note": 60,
+          "velocity": 100,
+          "beat": 229.80300012487513,
+          "durationBeats": 0.4135237158674659,
+          "channel": 0
+        },
+        {
+          "id": "emmeip",
+          "note": 63,
+          "velocity": 100,
+          "beat": 230.14771426490177,
+          "durationBeats": 0.19009532134532134,
+          "channel": 0
+        },
+        {
+          "id": "emlwty",
+          "note": 67,
+          "velocity": 100,
+          "beat": 230.25695242257743,
+          "durationBeats": 0.27123813686313686,
+          "channel": 0
+        },
+        {
+          "id": "emlvib",
+          "note": 60,
+          "velocity": 100,
+          "beat": 230.73771436896436,
+          "durationBeats": 0.35,
+          "channel": 0
+        },
+        {
+          "id": "emlvia",
+          "note": 67,
+          "velocity": 100,
+          "beat": 231.12714290917415,
+          "durationBeats": 0.2943332708957709,
+          "channel": 0
+        },
+        {
+          "id": "emlvdb",
+          "note": 67,
+          "velocity": 100,
+          "beat": 231.92404756701632,
+          "durationBeats": 0.3311428155178155,
+          "channel": 0
+        },
+        {
+          "id": "emlvda",
+          "note": 69,
+          "velocity": 100,
+          "beat": 232.61090472027973,
+          "durationBeats": 0.30057156385281386,
+          "channel": 0
+        },
+        {
+          "id": "emlzpp",
+          "note": 67,
+          "velocity": 100,
+          "beat": 233.9323332917083,
+          "durationBeats": 0.2877619776057276,
+          "channel": 0
+        },
+        {
+          "id": "emlybw",
+          "note": 65,
+          "velocity": 100,
+          "beat": 234.59280953421577,
+          "durationBeats": 0.3190000104062604,
+          "channel": 0
+        },
+        {
+          "id": "emlycd",
+          "note": 63,
+          "velocity": 100,
+          "beat": 235.51490488677987,
+          "durationBeats": 0.3167618839493839,
+          "channel": 0
+        },
+        {
+          "id": "emmoru",
+          "note": 60,
+          "velocity": 100,
+          "beat": 235.88357137654012,
+          "durationBeats": 0.25271421287046286,
+          "channel": 0
+        },
+        {
+          "id": "emmneb",
+          "note": 67,
+          "velocity": 100,
+          "beat": 236.04452370546122,
+          "durationBeats": 0.39071449383949386,
+          "channel": 0
+        },
+        {
+          "id": "emmnea",
+          "note": 60,
+          "velocity": 100,
+          "beat": 236.46133345820846,
+          "durationBeats": 0.5534283424908425,
+          "channel": 0
+        },
+        {
+          "id": "emmrqx",
+          "note": 63,
+          "velocity": 100,
+          "beat": 236.9762856934732,
+          "durationBeats": 0.45880941974691974,
+          "channel": 0
+        },
+        {
+          "id": "emmrqw",
+          "note": 67,
+          "velocity": 100,
+          "beat": 237.39538092116217,
+          "durationBeats": 0.4603334165834166,
+          "channel": 0
+        },
+        {
+          "id": "emmqcn",
+          "note": 60,
+          "velocity": 100,
+          "beat": 237.92009526931403,
+          "durationBeats": 0.6985714806027306,
+          "channel": 0
+        },
+        {
+          "id": "emmimq",
+          "note": 63,
+          "velocity": 100,
+          "beat": 238.49328562062936,
+          "durationBeats": 0.4766192141192141,
+          "channel": 0
+        },
+        {
+          "id": "emmimx",
+          "note": 67,
+          "velocity": 100,
+          "beat": 238.8706665730103,
+          "durationBeats": 0.5862858495670996,
+          "channel": 0
+        },
+        {
+          "id": "emmgyo",
+          "note": 60,
+          "velocity": 100,
+          "beat": 239.45390468906095,
+          "durationBeats": 0.752714473026973,
+          "channel": 0
+        },
+        {
+          "id": "emmllt",
+          "note": 63,
+          "velocity": 100,
+          "beat": 240.0833809419747,
+          "durationBeats": 0.4258572157009657,
+          "channel": 0
+        },
+        {
+          "id": "emmlls",
+          "note": 67,
+          "velocity": 100,
+          "beat": 240.67323822011323,
+          "durationBeats": 0.2865236326173826,
+          "channel": 0
+        },
+        {
+          "id": "emmjyh",
+          "note": 60,
+          "velocity": 100,
+          "beat": 241.2341905490343,
+          "durationBeats": 0.18347615925740926,
+          "channel": 0
+        },
+        {
+          "id": "emmjyg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 241.59166666666667,
+          "durationBeats": 0.10061917249417249,
+          "channel": 0
+        },
+        {
+          "id": "emlebp",
+          "note": 63,
+          "velocity": 100,
+          "beat": 242.14519048659673,
+          "durationBeats": 0.2496667395104895,
+          "channel": 0
+        },
+        {
+          "id": "emlcmq",
+          "note": 67,
+          "velocity": 100,
+          "beat": 242.74633335414586,
+          "durationBeats": 0.22671417124542126,
+          "channel": 0
+        },
+        {
+          "id": "emlcmx",
+          "note": 60,
+          "velocity": 100,
+          "beat": 243.19271431693306,
+          "durationBeats": 0.32580960705960704,
+          "channel": 0
+        },
+        {
+          "id": "emlgzm",
+          "note": 63,
+          "velocity": 100,
+          "beat": 243.65933337495838,
+          "durationBeats": 0.345000052031302,
+          "channel": 0
+        },
+        {
+          "id": "emlfmz",
+          "note": 67,
+          "velocity": 100,
+          "beat": 244.28990488677988,
+          "durationBeats": 0.24338083791208792,
+          "channel": 0
+        },
+        {
+          "id": "emlfmy",
+          "note": 60,
+          "velocity": 100,
+          "beat": 244.62852381993008,
+          "durationBeats": 0.39538092116217116,
+          "channel": 0
+        },
+        {
+          "id": "emkxwt",
+          "note": 63,
+          "velocity": 100,
+          "beat": 245.22780943015317,
+          "durationBeats": 0.27642877955377954,
+          "channel": 0
+        },
+        {
+          "id": "emkxws",
+          "note": 67,
+          "velocity": 100,
+          "beat": 245.7280477335165,
+          "durationBeats": 0.20195221445221445,
+          "channel": 0
+        },
+        {
+          "id": "emkwhd",
+          "note": 60,
+          "velocity": 100,
+          "beat": 246.1104762425075,
+          "durationBeats": 0.24533331252081253,
+          "channel": 0
+        },
+        {
+          "id": "emlaui",
+          "note": 63,
+          "velocity": 100,
+          "beat": 246.4800951652514,
+          "durationBeats": 0.2422382305194805,
+          "channel": 0
+        },
+        {
+          "id": "emlaup",
+          "note": 67,
+          "velocity": 100,
+          "beat": 246.97933342698968,
+          "durationBeats": 0.11399980228105228,
+          "channel": 0
+        },
+        {
+          "id": "emkzhm",
+          "note": 60,
+          "velocity": 100,
+          "beat": 247.15847615925742,
+          "durationBeats": 0.31085711163836166,
+          "channel": 0
+        },
+        {
+          "id": "emlpxt",
+          "note": 63,
+          "velocity": 100,
+          "beat": 247.60752372627374,
+          "durationBeats": 0.2645240176490177,
+          "channel": 0
+        },
+        {
+          "id": "emlpxs",
+          "note": 67,
+          "velocity": 100,
+          "beat": 248.0497619567932,
+          "durationBeats": 0.21642862345987346,
+          "channel": 0
+        },
+        {
+          "id": "emlokh",
+          "note": 60,
+          "velocity": 100,
+          "beat": 248.3078096382784,
+          "durationBeats": 0.3056188603063603,
+          "channel": 0
+        },
+        {
+          "id": "emluhu",
+          "note": 63,
+          "velocity": 100,
+          "beat": 248.61447614885117,
+          "durationBeats": 0.28552385114885115,
+          "channel": 0
+        },
+        {
+          "id": "emlsub",
+          "note": 67,
+          "velocity": 100,
+          "beat": 248.9371904137529,
+          "durationBeats": 0.24514287795537795,
+          "channel": 0
+        },
+        {
+          "id": "emllga",
+          "note": 60,
+          "velocity": 100,
+          "beat": 249.18371420246422,
+          "durationBeats": 0.3619047619047619,
+          "channel": 0
+        },
+        {
+          "id": "emllgh",
+          "note": 63,
+          "velocity": 100,
+          "beat": 249.51695231851483,
+          "durationBeats": 0.28204763986013986,
+          "channel": 0
+        },
+        {
+          "id": "emljqc",
+          "note": 67,
+          "velocity": 100,
+          "beat": 249.8475714389777,
+          "durationBeats": 0.23695237054612053,
+          "channel": 0
+        },
+        {
+          "id": "emljqb",
+          "note": 60,
+          "velocity": 100,
+          "beat": 250.1121904137529,
+          "durationBeats": 0.34152384074259073,
+          "channel": 0
+        },
+        {
+          "id": "emlofc",
+          "note": 63,
+          "velocity": 100,
+          "beat": 250.46076189435564,
+          "durationBeats": 0.32947625291375293,
+          "channel": 0
+        },
+        {
+          "id": "emlmrb",
+          "note": 67,
+          "velocity": 100,
+          "beat": 250.7538570804196,
+          "durationBeats": 0.3221905698468199,
+          "channel": 0
+        },
+        {
+          "id": "emlmra",
+          "note": 60,
+          "velocity": 100,
+          "beat": 251.1281429507992,
+          "durationBeats": 0.3348094613719614,
+          "channel": 0
+        },
+        {
+          "id": "emkgsn",
+          "note": 63,
+          "velocity": 100,
+          "beat": 251.4177143169331,
+          "durationBeats": 0.2885713245088245,
+          "channel": 0
+        },
+        {
+          "id": "emkfgq",
+          "note": 67,
+          "velocity": 100,
+          "beat": 251.67523804320678,
+          "durationBeats": 0.29090492840492843,
+          "channel": 0
+        },
+        {
+          "id": "emkfgx",
+          "note": 60,
+          "velocity": 100,
+          "beat": 251.95071438977686,
+          "durationBeats": 0.3440952276889777,
+          "channel": 0
+        },
+        {
+          "id": "emkjrq",
+          "note": 63,
+          "velocity": 100,
+          "beat": 252.23690476190478,
+          "durationBeats": 0.34371435855810856,
+          "channel": 0
+        },
+        {
+          "id": "emkjrp",
+          "note": 67,
+          "velocity": 100,
+          "beat": 252.5074761176324,
+          "durationBeats": 0.4265716054778555,
+          "channel": 0
+        },
+        {
+          "id": "emkidg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 252.89985717407592,
+          "durationBeats": 0.3282381680819181,
+          "channel": 0
+        },
+        {
+          "id": "emkaqd",
+          "note": 63,
+          "velocity": 100,
+          "beat": 253.1856666770729,
+          "durationBeats": 0.37047613844488847,
+          "channel": 0
+        },
+        {
+          "id": "emkaqc",
+          "note": 67,
+          "velocity": 100,
+          "beat": 253.5177619255744,
+          "durationBeats": 0.37285709082584084,
+          "channel": 0
+        },
+        {
+          "id": "emjyyr",
+          "note": 60,
+          "velocity": 100,
+          "beat": 253.8755713036963,
+          "durationBeats": 0.4597145042457542,
+          "channel": 0
+        },
+        {
+          "id": "emkdns",
+          "note": 63,
+          "velocity": 100,
+          "beat": 254.18704758782883,
+          "durationBeats": 0.39319040334665334,
+          "channel": 0
+        },
+        {
+          "id": "emkdnz",
+          "note": 67,
+          "velocity": 100,
+          "beat": 254.59214275308022,
+          "durationBeats": 0.3320952485014985,
+          "channel": 0
+        },
+        {
+          "id": "emkcbm",
+          "note": 60,
+          "velocity": 100,
+          "beat": 254.89080945096572,
+          "durationBeats": 0.427428561022311,
+          "channel": 0
+        },
+        {
+          "id": "emksor",
+          "note": 63,
+          "velocity": 100,
+          "beat": 255.2762856934732,
+          "durationBeats": 0.37966668747918747,
+          "channel": 0
+        },
+        {
+          "id": "emksoq",
+          "note": 67,
+          "velocity": 100,
+          "beat": 255.5953809211622,
+          "durationBeats": 0.3392857142857143,
+          "channel": 0
+        },
+        {
+          "id": "emkrbv",
+          "note": 60,
+          "velocity": 100,
+          "beat": 255.9887144105894,
+          "durationBeats": 0.3877141088078588,
+          "channel": 0
+        },
+        {
+          "id": "emkrbu",
+          "note": 63,
+          "velocity": 100,
+          "beat": 256.3681427947053,
+          "durationBeats": 0.36938113969363967,
+          "channel": 0
+        },
+        {
+          "id": "emkvmn",
+          "note": 67,
+          "velocity": 100,
+          "beat": 256.6952380952381,
+          "durationBeats": 0.41599988553113554,
+          "channel": 0
+        },
+        {
+          "id": "emktzk",
+          "note": 60,
+          "velocity": 100,
+          "beat": 257.14847626332,
+          "durationBeats": 0.3933332292707293,
+          "channel": 0
+        },
+        {
+          "id": "emktzr",
+          "note": 63,
+          "velocity": 100,
+          "beat": 257.5057143377456,
+          "durationBeats": 0.47276187354312355,
+          "channel": 0
+        },
+        {
+          "id": "emkmmg",
+          "note": 67,
+          "velocity": 100,
+          "beat": 257.9713333541458,
+          "durationBeats": 0.5973810044122544,
+          "channel": 0
+        },
+        {
+          "id": "emkkuf",
+          "note": 67,
+          "velocity": 100,
+          "beat": 258.59952391358644,
+          "durationBeats": 0.1656190164002664,
+          "channel": 0
+        },
+        {
+          "id": "emkkue",
+          "note": 60,
+          "velocity": 100,
+          "beat": 259.36480940934064,
+          "durationBeats": 0.7691430964868465,
+          "channel": 0
+        },
+        {
+          "id": "emkpgl",
+          "note": 63,
+          "velocity": 100,
+          "beat": 260.0855238511489,
+          "durationBeats": 0.9997143481518481,
+          "channel": 0
+        },
+        {
+          "id": "emkpgk",
+          "note": 67,
+          "velocity": 100,
+          "beat": 261.04704774392275,
+          "durationBeats": 1.262571282883783,
+          "channel": 0
+        },
+        {
+          "id": "emknsr",
+          "note": 60,
+          "velocity": 100,
+          "beat": 263.22061896436895,
+          "durationBeats": 0.14476200882450882,
+          "channel": 0
+        },
+        {
+          "id": "emknwa",
+          "note": 60,
+          "velocity": 100,
+          "beat": 264.2038570804196,
+          "durationBeats": 0.1897144522144522,
+          "channel": 0
+        },
+        {
+          "id": "emknwh",
+          "note": 60,
+          "velocity": 100,
+          "beat": 265.15238095238095,
+          "durationBeats": 0.25571433774558777,
+          "channel": 0
+        },
+        {
+          "id": "emjiaw",
+          "note": 60,
+          "velocity": 100,
+          "beat": 265.8435239239927,
+          "durationBeats": 0.26219041375291374,
+          "channel": 0
+        },
+        {
+          "id": "emjgqv",
+          "note": 60,
+          "velocity": 100,
+          "beat": 266.35366664585416,
+          "durationBeats": 0.28923810564435565,
+          "channel": 0
+        },
+        {
+          "id": "emjgqu",
+          "note": 60,
+          "velocity": 100,
+          "beat": 266.9805715118215,
+          "durationBeats": 0.2720950924075924,
+          "channel": 0
+        },
+        {
+          "id": "emjleh",
+          "note": 60,
+          "velocity": 100,
+          "beat": 267.5242856102231,
+          "durationBeats": 0.47100009365634365,
+          "channel": 0
+        },
+        {
+          "id": "emjleg",
+          "note": 63,
+          "velocity": 100,
+          "beat": 267.94366674991676,
+          "durationBeats": 0.43923810564435567,
+          "channel": 0
+        },
+        {
+          "id": "emjjpx",
+          "note": 67,
+          "velocity": 100,
+          "beat": 268.7260952589078,
+          "durationBeats": 0.33461902680652683,
+          "channel": 0
+        },
+        {
+          "id": "emjcey",
+          "note": 67,
+          "velocity": 100,
+          "beat": 269.3606666770729,
+          "durationBeats": 0.24814274267399267,
+          "channel": 0
+        },
+        {
+          "id": "emjaqx",
+          "note": 67,
+          "velocity": 100,
+          "beat": 269.93995249542127,
+          "durationBeats": 0.26328567266067265,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  }
+}

@@ -1,0 +1,1573 @@
+{
+  "zaaa": {
+    "id": "zaaa",
+    "trackId": "gaz",
+    "name": "Kick 0001 [2025-10-31 024027].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 60.0,
+    "offsetBeats": 244.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Kick 0001 [2025-10-31 024027].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 6318848,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaaq": {
+    "id": "zaaq",
+    "trackId": "jco",
+    "name": "Shakers 0001 [2025-10-31 024508].aif",
+    "startBeat": 0.0,
+    "lengthBeats": 573.6145833333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Shakers 0001 [2025-10-31 024508].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 1666011,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 0,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zabl": {
+    "id": "zabl",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 29.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zack": {
+    "id": "zack",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 79.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zadn": {
+    "id": "zadn",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 137.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaem": {
+    "id": "zaem",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 187.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zafh": {
+    "id": "zafh",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 229.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zafx": {
+    "id": "zafx",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 261.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zagg": {
+    "id": "zagg",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 279.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zagw": {
+    "id": "zagw",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 311.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zahj": {
+    "id": "zahj",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 337.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zahz": {
+    "id": "zahz",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 369.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaii": {
+    "id": "zaii",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 387.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaiy": {
+    "id": "zaiy",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 419.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zajd": {
+    "id": "zajd",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 429.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zajt": {
+    "id": "zajt",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 461.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zakc": {
+    "id": "zakc",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 479.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaks": {
+    "id": "zaks",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 511.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zalf": {
+    "id": "zalf",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 569.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zalv": {
+    "id": "zalv",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 601.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zame": {
+    "id": "zame",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 619.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zamu": {
+    "id": "zamu",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 649.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zanp": {
+    "id": "zanp",
+    "trackId": "xqg",
+    "name": "Human clap [2023-04-26 210003].aif",
+    "startBeat": 753.0,
+    "lengthBeats": 0.5208333333333334,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Human clap [2023-04-26 210003].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 12000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zaoo": {
+    "id": "zaoo",
+    "trackId": "ezj",
+    "name": "Audio 0002 [2025-10-31 031926].aif",
+    "startBeat": 335.84375,
+    "lengthBeats": 0.15625,
+    "offsetBeats": 336.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Audio 0002 [2025-10-31 031926].aif",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 13111168,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zapb": {
+    "id": "zapb",
+    "trackId": "dmy",
+    "name": "16-KORG MS-20 V 13-Group - clip",
+    "startBeat": 560.0,
+    "lengthBeats": 16.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "epriec",
+          "note": 72,
+          "velocity": 100,
+          "beat": 0.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "eprgrp",
+          "note": 75,
+          "velocity": 100,
+          "beat": 0.25,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "eprgro",
+          "note": 76,
+          "velocity": 100,
+          "beat": 0.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "eprlel",
+          "note": 72,
+          "velocity": 100,
+          "beat": 1.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "eprlek",
+          "note": 75,
+          "velocity": 100,
+          "beat": 1.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "eprjkn",
+          "note": 76,
+          "velocity": 100,
+          "beat": 1.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epqdnw",
+          "note": 75,
+          "velocity": 100,
+          "beat": 2.25,
+          "durationBeats": 0.25,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "zapr": {
+    "id": "zapr",
+    "trackId": "ylt",
+    "name": "18-Statement Lead - clip",
+    "startBeat": 696.0,
+    "lengthBeats": 97.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "epipfg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 0.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epinot",
+          "note": 67,
+          "velocity": 100,
+          "beat": 3.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epjeic",
+          "note": 60,
+          "velocity": 100,
+          "beat": 4.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epjeib",
+          "note": 63,
+          "velocity": 100,
+          "beat": 5.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epjcqq",
+          "note": 60,
+          "velocity": 100,
+          "beat": 6.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epjhet",
+          "note": 67,
+          "velocity": 100,
+          "beat": 7.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epjhes",
+          "note": 63,
+          "velocity": 100,
+          "beat": 7.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epjfsf",
+          "note": 79,
+          "velocity": 127,
+          "beat": 7.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epjevs",
+          "note": 60,
+          "velocity": 100,
+          "beat": 8.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epjevj",
+          "note": 67,
+          "velocity": 100,
+          "beat": 11.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epixhy",
+          "note": 60,
+          "velocity": 100,
+          "beat": 12.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epixhx",
+          "note": 63,
+          "velocity": 100,
+          "beat": 13.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epivto",
+          "note": 60,
+          "velocity": 100,
+          "beat": 14.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epjaep",
+          "note": 67,
+          "velocity": 100,
+          "beat": 15.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epjaeo",
+          "note": 63,
+          "velocity": 100,
+          "beat": 15.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epiysr",
+          "note": 77,
+          "velocity": 127,
+          "beat": 15.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephsue",
+          "note": 60,
+          "velocity": 100,
+          "beat": 16.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephstf",
+          "note": 67,
+          "velocity": 100,
+          "beat": 19.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephrgs",
+          "note": 60,
+          "velocity": 100,
+          "beat": 20.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephrgr",
+          "note": 63,
+          "velocity": 100,
+          "beat": 21.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephvvs",
+          "note": 60,
+          "velocity": 100,
+          "beat": 22.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephuep",
+          "note": 67,
+          "velocity": 100,
+          "beat": 23.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephueo",
+          "note": 63,
+          "velocity": 100,
+          "beat": 23.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephmqn",
+          "note": 74,
+          "velocity": 127,
+          "beat": 23.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephlea",
+          "note": 60,
+          "velocity": 100,
+          "beat": 24.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephldr",
+          "note": 67,
+          "velocity": 100,
+          "beat": 27.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephqic",
+          "note": 60,
+          "velocity": 100,
+          "beat": 28.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephqib",
+          "note": 63,
+          "velocity": 100,
+          "beat": 29.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephouy",
+          "note": 60,
+          "velocity": 100,
+          "beat": 30.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epifjb",
+          "note": 67,
+          "velocity": 100,
+          "beat": 31.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epifja",
+          "note": 63,
+          "velocity": 100,
+          "beat": 31.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epidvx",
+          "note": 72,
+          "velocity": 127,
+          "beat": 31.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epidvw",
+          "note": 60,
+          "velocity": 100,
+          "beat": 32.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epihxb",
+          "note": 67,
+          "velocity": 100,
+          "beat": 35.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epigog",
+          "note": 60,
+          "velocity": 100,
+          "beat": 36.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epigof",
+          "note": 63,
+          "velocity": 100,
+          "beat": 37.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephyxs",
+          "note": 60,
+          "velocity": 100,
+          "beat": 38.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephxkh",
+          "note": 67,
+          "velocity": 100,
+          "beat": 39.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephxkg",
+          "note": 63,
+          "velocity": 100,
+          "beat": 39.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epicbt",
+          "note": 79,
+          "velocity": 127,
+          "beat": 39.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epicbs",
+          "note": 60,
+          "velocity": 100,
+          "beat": 40.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epianr",
+          "note": 67,
+          "velocity": 100,
+          "beat": 43.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgvqg",
+          "note": 60,
+          "velocity": 100,
+          "beat": 44.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgvqf",
+          "note": 63,
+          "velocity": 100,
+          "beat": 45.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgubw",
+          "note": 60,
+          "velocity": 100,
+          "beat": 46.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgypj",
+          "note": 67,
+          "velocity": 100,
+          "beat": 47.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgypi",
+          "note": 63,
+          "velocity": 100,
+          "beat": 47.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgxfx",
+          "note": 74,
+          "velocity": 127,
+          "beat": 47.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgxfw",
+          "note": 60,
+          "velocity": 100,
+          "beat": 48.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgppb",
+          "note": 67,
+          "velocity": 100,
+          "beat": 51.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgoco",
+          "note": 60,
+          "velocity": 100,
+          "beat": 52.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgocn",
+          "note": 63,
+          "velocity": 100,
+          "beat": 53.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgsua",
+          "note": 60,
+          "velocity": 100,
+          "beat": 54.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgrfj",
+          "note": 67,
+          "velocity": 100,
+          "beat": 55.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgrfi",
+          "note": 63,
+          "velocity": 100,
+          "beat": 55.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephhzx",
+          "note": 77,
+          "velocity": 127,
+          "beat": 55.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephhzw",
+          "note": 60,
+          "velocity": 100,
+          "beat": 56.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephgnb",
+          "note": 67,
+          "velocity": 100,
+          "beat": 59.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephlag",
+          "note": 60,
+          "velocity": 100,
+          "beat": 60.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephlaf",
+          "note": 63,
+          "velocity": 100,
+          "beat": 61.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephivw",
+          "note": 60,
+          "velocity": 100,
+          "beat": 62.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephbgh",
+          "note": 67,
+          "velocity": 100,
+          "beat": 63.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephbgg",
+          "note": 63,
+          "velocity": 100,
+          "beat": 63.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgztd",
+          "note": 72,
+          "velocity": 127,
+          "beat": 63.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgztc",
+          "note": 60,
+          "velocity": 100,
+          "beat": 64.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephejb",
+          "note": 67,
+          "velocity": 100,
+          "beat": 67.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephcxu",
+          "note": 60,
+          "velocity": 100,
+          "beat": 68.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "ephcxt",
+          "note": 63,
+          "velocity": 100,
+          "beat": 69.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epfxdo",
+          "note": 60,
+          "velocity": 100,
+          "beat": 70.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epfxdv",
+          "note": 67,
+          "velocity": 100,
+          "beat": 71.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epfvqc",
+          "note": 63,
+          "velocity": 100,
+          "beat": 71.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgafd",
+          "note": 79,
+          "velocity": 127,
+          "beat": 71.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgafc",
+          "note": 60,
+          "velocity": 100,
+          "beat": 72.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epfytn",
+          "note": 67,
+          "velocity": 100,
+          "beat": 75.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epfrgc",
+          "note": 60,
+          "velocity": 100,
+          "beat": 76.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epfrgb",
+          "note": 63,
+          "velocity": 100,
+          "beat": 77.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epfprs",
+          "note": 60,
+          "velocity": 100,
+          "beat": 78.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epfprz",
+          "note": 67,
+          "velocity": 100,
+          "beat": 79.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epfozu",
+          "note": 63,
+          "velocity": 100,
+          "beat": 79.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epftpl",
+          "note": 77,
+          "velocity": 127,
+          "beat": 79.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epftpk",
+          "note": 60,
+          "velocity": 100,
+          "beat": 80.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epfscp",
+          "note": 67,
+          "velocity": 100,
+          "beat": 83.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgius",
+          "note": 60,
+          "velocity": 100,
+          "beat": 84.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgiur",
+          "note": 63,
+          "velocity": 100,
+          "beat": 85.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epghie",
+          "note": 60,
+          "velocity": 100,
+          "beat": 86.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epghil",
+          "note": 67,
+          "velocity": 100,
+          "beat": 87.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epglxm",
+          "note": 63,
+          "velocity": 100,
+          "beat": 87.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgkkz",
+          "note": 74,
+          "velocity": 127,
+          "beat": 87.75,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgkky",
+          "note": 60,
+          "velocity": 100,
+          "beat": 88.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgcwp",
+          "note": 67,
+          "velocity": 100,
+          "beat": 91.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgcwo",
+          "note": 60,
+          "velocity": 100,
+          "beat": 92.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgbkr",
+          "note": 63,
+          "velocity": 100,
+          "beat": 93.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgfzc",
+          "note": 60,
+          "velocity": 100,
+          "beat": 94.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgfzj",
+          "note": 67,
+          "velocity": 100,
+          "beat": 95.0,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgdtu",
+          "note": 63,
+          "velocity": 100,
+          "beat": 95.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "epgdtt",
+          "note": 72,
+          "velocity": 127,
+          "beat": 95.75,
+          "durationBeats": 0.5,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  }
+}

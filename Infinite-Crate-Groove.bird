@@ -1,0 +1,1030 @@
+sig
+  bpm 126
+  system 12tet western
+  scale C chromatic
+
+arr
+  song 199 |clm
+
+tracks
+  1 Kick 1-Group |gaz
+    type audio
+    fx Console 1
+    strip tivraStrip
+  2 Undergroove 1-Group |xqc
+    type audio
+    fx LFOTool
+    fx2 Dist TUBE-CULTURE
+    fx3 Console 1
+    strip tivraStrip
+  3 Automated overgroove 4-Group |smb
+    type audio
+    fx Console 1
+    strip tivraStrip
+  4 Shakers 4-Group |jco
+    type audio
+    fx soothe2
+    fx2 Transient Shaper
+    fx3 Console 1
+    strip tivraStrip
+  5 Clap 7-Group |sgn
+    type audio
+    fx Console 1
+    strip tivraStrip
+  6 Clap 7-Group |gbm
+    type audio
+    fx Tube Delay
+    fx2 Console 1
+    strip tivraStrip
+  7 Clap 7-Group |xqg
+    type audio
+    fx Tube Delay
+    fx2 Fosfat
+    fx3 Dist TUBE-CULTURE
+    fx4 tivraAutoPan
+    fx5 Console 1
+    strip tivraStrip
+  8 Audio |ezj
+    type audio
+    fx Dist TUBE-CULTURE
+    fx2 Console 1
+    strip tivraStrip
+  9 14-KORG MS-20 V 13-Group |ugd
+    type midi
+    plugin KORG MS-20 V
+    fx tivraAutoPan
+    fx2 soothe2
+    fx3 Dist TUBE-CULTURE
+    fx4 Console 1
+    strip tivraStrip
+  10 15-KORG MS-20 V 13-Group |sqq
+    type midi
+    plugin KORG MS-20 V
+    fx tivraAutoPan
+    fx2 soothe2
+    fx3 Dist TUBE-CULTURE
+    fx4 Console 1
+    strip tivraStrip
+  11 16-KORG MS-20 V 13-Group |dmy
+    type midi
+    plugin KORG MS-20 V
+    fx tivraAutoPan
+    fx2 soothe2
+    fx3 Dist TUBE-CULTURE
+    fx4 Console 1
+    strip tivraStrip
+  12 Vox |ncf
+    type audio
+    fx Portal
+    fx2 Console 1
+    strip tivraStrip
+  13 18-Statement Lead |ylt
+    type midi
+    plugin Statement Lead
+    fx tivraDelay
+    fx2 Tape
+    fx3 Console 1
+    strip tivraStrip
+  14 Audio |kat
+    type audio
+    fx Rev INTENSITY
+    fx2 TSAR-1 Reverb
+    fx3 Console 1
+    strip tivraStrip
+
+returns
+  0 A-Long Reverb |rpq
+    fx ValhallaRoom
+    fx2 Console 1
+    strip tivraStrip
+  1 B-Short Reverb |rmo
+    fx ValhallaRoom
+    fx2 Console 1
+    strip tivraStrip
+  2 C-Delay - Console 1 |rlu
+    fx tivraDelay
+    fx2 Console 1
+    strip tivraStrip
+
+sec song
+  trk 1 Kick 1-Group |gaz
+    c 0:0 15:0 |zaaa
+      'samples/Kick 0001 [2025-10-31 024027].aif'
+      o 61:0
+    c 16:0 111:0 |zaab
+      'samples/Kick 0001 [2025-10-31 024027].aif'
+      o 61:0
+    c 128:0 27:192 |zaac
+      'samples/Kick 0001 [2025-10-31 024027].aif'
+      o 61:0
+    c 166:0 4:0 |zaad
+      'samples/Kick 0001 [2025-10-31 024027].aif'
+      o 61:0
+    c 174:0 20:0 |zaae
+      'samples/Kick 0001 [2025-10-31 024027].aif'
+      o 61:0
+      lane 0
+        c 0:0 143:155 |zaaf
+          'samples/Kick 0001 [2025-10-31 024027].aif'
+          o 61:0
+  trk 2 Undergroove 1-Group |xqc
+    c 0:0 155:192 |zaag
+      'samples/Undergroove 0001 [2025-10-31 024039].aif'
+      o 4:96
+    c 174:0 20:0 |zaah
+      'samples/Undergroove 0001 [2025-10-31 024039].aif'
+      o 4:96
+      lane 0
+        c 0:0 143:155 |zaai
+          'samples/Undergroove 0001 [2025-10-31 024039].aif'
+          o 4:96
+  trk 3 Automated overgroove 4-Group |smb
+    c 16:0 48:0 |zaaj
+      'samples/Automated overgroove 0001 [2025-11-01 130940].aif'
+      o 16:0
+    c 96:0 48:0 |zaak
+      'samples/Automated overgroove 0001 [2025-11-01 130940].aif'
+      o 16:0
+    c 166:0 5:278 |zaal
+      'samples/Automated overgroove 0001 [2025-11-01 130940].aif'
+      o 40:0
+    c 171:278 14:106 |zaam
+      'samples/Automated overgroove 0001 [2025-11-01 130940].aif'
+      o 49:278
+      lane 0
+        c 0:0 65:58 |zaan
+          'samples/Automated overgroove 0001 [2025-11-01 130940].aif'
+  trk 4 Shakers 4-Group |jco
+    c 0:0 96:0 |zaao
+      'samples/Shakers 0001 [2025-10-31 024508].aif'
+    c 120:0 7:36 |zaap
+      'samples/Shakers 0001 [2025-10-31 024508].aif'
+      lane 0
+        c 0:0 143:155 |zaaq
+          'samples/Shakers 0001 [2025-10-31 024508].aif'
+  trk 5 Clap 7-Group |sgn
+    c 0:0 127:96 |zaar
+      'samples/Bm - Radiowaves [2023-04-26 201514].aif'
+    c 144:0 8:0 |zaas
+      'samples/Bm - Radiowaves [2023-04-26 201514].aif'
+      lane 0
+        c 60:18 21:224 |zaat
+          'samples/Bm - Radiowaves [2023-04-26 201514].aif'
+          o 12:18
+  trk 6 Clap 7-Group |gbm
+    c 0:0 127:0 |zaau
+      'samples/Am - Dark Proggy [2023-04-26 201456].aif'
+      o 1:24
+    c 144:0 8:0 |zaav
+      'samples/Am - Dark Proggy [2023-04-26 201456].aif'
+      o 1:24
+      lane 0
+        c 60:18 21:224 |zaaw
+          'samples/Am - Dark Proggy [2023-04-26 201456].aif'
+          o 1:42
+  trk 7 Clap 7-Group |xqg
+    c 0:96 0:50 |zaax
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 0:288 0:50 |zaay
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 1:96 0:50 |zaaz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 1:288 0:50 |zaba
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 2:96 0:50 |zabb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 2:288 0:50 |zabc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 3:96 0:50 |zabd
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 3:288 0:50 |zabe
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 4:96 0:50 |zabf
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 4:288 0:50 |zabg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 5:96 0:50 |zabh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 5:288 0:50 |zabi
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 6:96 0:50 |zabj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 6:288 0:50 |zabk
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 7:96 0:50 |zabl
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 7:288 0:50 |zabm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 8:96 0:50 |zabn
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 8:288 0:50 |zabo
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 9:96 0:50 |zabp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 9:288 0:50 |zabq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 10:96 0:50 |zabr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 10:288 0:50 |zabs
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 11:96 0:50 |zabt
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 11:288 0:50 |zabu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 12:96 0:50 |zabv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 12:288 0:50 |zabw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 13:96 0:50 |zabx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 13:288 0:50 |zaby
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 14:96 0:50 |zabz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 14:288 0:50 |zaca
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 15:96 0:50 |zacb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 15:288 0:50 |zacc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 16:96 0:50 |zacd
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 16:288 0:50 |zace
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 17:96 0:50 |zacf
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 17:288 0:50 |zacg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 18:96 0:50 |zach
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 18:288 0:50 |zaci
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 19:96 0:50 |zacj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 19:288 0:50 |zack
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 20:96 0:50 |zacl
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 20:288 0:50 |zacm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 21:96 0:50 |zacn
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 21:288 0:50 |zaco
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 22:96 0:50 |zacp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 22:288 0:50 |zacq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 23:96 0:50 |zacr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 23:288 0:50 |zacs
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 24:96 0:50 |zact
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 24:288 0:50 |zacu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 25:96 0:50 |zacv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 25:288 0:50 |zacw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 26:96 0:50 |zacx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 26:288 0:50 |zacy
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 27:96 0:50 |zacz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 27:288 0:50 |zada
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 28:96 0:50 |zadb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 28:288 0:50 |zadc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 29:96 0:50 |zadd
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 29:288 0:50 |zade
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 30:96 0:50 |zadf
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 30:288 0:50 |zadg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 31:96 0:50 |zadh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 31:288 0:50 |zadi
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 32:96 0:50 |zadj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 32:288 0:50 |zadk
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 33:96 0:50 |zadl
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 33:288 0:50 |zadm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 34:96 0:50 |zadn
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 34:288 0:50 |zado
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 35:96 0:50 |zadp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 35:288 0:50 |zadq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 36:96 0:50 |zadr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 36:288 0:50 |zads
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 37:96 0:50 |zadt
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 37:288 0:50 |zadu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 38:96 0:50 |zadv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 38:288 0:50 |zadw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 39:96 0:50 |zadx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 39:288 0:50 |zady
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 40:96 0:50 |zadz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 40:288 0:50 |zaea
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 41:96 0:50 |zaeb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 41:288 0:50 |zaec
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 42:96 0:50 |zaed
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 42:288 0:50 |zaee
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 43:96 0:50 |zaef
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 43:288 0:50 |zaeg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 44:96 0:50 |zaeh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 44:288 0:50 |zaei
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 45:96 0:50 |zaej
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 45:288 0:50 |zaek
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 46:96 0:50 |zael
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 46:288 0:50 |zaem
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 47:96 0:50 |zaen
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 47:288 0:50 |zaeo
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 48:96 0:50 |zaep
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 48:288 0:50 |zaeq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 49:96 0:50 |zaer
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 49:288 0:50 |zaes
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 50:96 0:50 |zaet
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 50:288 0:50 |zaeu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 51:96 0:50 |zaev
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 51:288 0:50 |zaew
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 52:96 0:50 |zaex
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 52:288 0:50 |zaey
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 53:96 0:50 |zaez
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 53:288 0:50 |zafa
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 54:96 0:50 |zafb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 54:288 0:50 |zafc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 55:96 0:50 |zafd
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 55:288 0:50 |zafe
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 56:96 0:50 |zaff
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 56:288 0:50 |zafg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 57:96 0:50 |zafh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 57:288 0:50 |zafi
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 58:96 0:50 |zafj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 58:288 0:50 |zafk
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 59:96 0:50 |zafl
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 59:288 0:50 |zafm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 60:96 0:50 |zafn
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 60:288 0:50 |zafo
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 61:96 0:50 |zafp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 61:288 0:50 |zafq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 62:96 0:50 |zafr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 62:288 0:50 |zafs
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 63:96 0:50 |zaft
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 63:288 0:50 |zafu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 64:96 0:50 |zafv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 64:288 0:50 |zafw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 65:96 0:50 |zafx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 65:288 0:50 |zafy
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 66:96 0:50 |zafz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 66:288 0:50 |zaga
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 67:96 0:50 |zagb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 67:288 0:50 |zagc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 68:96 0:50 |zagd
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 68:288 0:50 |zage
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 69:96 0:50 |zagf
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 69:288 0:50 |zagg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 70:96 0:50 |zagh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 70:288 0:50 |zagi
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 71:96 0:50 |zagj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 71:288 0:50 |zagk
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 72:96 0:50 |zagl
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 72:288 0:50 |zagm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 73:96 0:50 |zagn
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 73:288 0:50 |zago
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 74:96 0:50 |zagp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 74:288 0:50 |zagq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 75:96 0:50 |zagr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 75:288 0:50 |zags
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 76:96 0:50 |zagt
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 76:288 0:50 |zagu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 77:96 0:50 |zagv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 77:288 0:50 |zagw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 78:96 0:50 |zagx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 78:288 0:50 |zagy
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 79:96 0:50 |zagz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 79:288 0:50 |zaha
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 80:96 0:50 |zahb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 80:288 0:50 |zahc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 81:96 0:50 |zahd
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 81:288 0:50 |zahe
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 82:96 0:50 |zahf
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 82:288 0:50 |zahg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 83:96 0:50 |zahh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 83:288 0:50 |zahi
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 84:96 0:50 |zahj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 84:288 0:50 |zahk
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 85:96 0:50 |zahl
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 85:288 0:50 |zahm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 86:96 0:50 |zahn
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 86:288 0:50 |zaho
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 87:96 0:50 |zahp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 87:288 0:50 |zahq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 88:96 0:50 |zahr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 88:288 0:50 |zahs
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 89:96 0:50 |zaht
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 89:288 0:50 |zahu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 90:96 0:50 |zahv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 90:288 0:50 |zahw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 91:96 0:50 |zahx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 91:288 0:50 |zahy
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 92:96 0:50 |zahz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 92:288 0:50 |zaia
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 93:96 0:50 |zaib
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 93:288 0:50 |zaic
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 94:96 0:50 |zaid
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 94:288 0:50 |zaie
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 95:96 0:50 |zaif
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 95:288 0:50 |zaig
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 96:96 0:50 |zaih
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 96:288 0:50 |zaii
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 97:96 0:50 |zaij
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 97:288 0:50 |zaik
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 98:96 0:50 |zail
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 98:288 0:50 |zaim
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 99:96 0:50 |zain
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 99:288 0:50 |zaio
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 100:96 0:50 |zaip
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 100:288 0:50 |zaiq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 101:96 0:50 |zair
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 101:288 0:50 |zais
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 102:96 0:50 |zait
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 102:288 0:50 |zaiu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 103:96 0:50 |zaiv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 103:288 0:50 |zaiw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 104:96 0:50 |zaix
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 104:288 0:50 |zaiy
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 105:96 0:50 |zaiz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 105:288 0:50 |zaja
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 106:96 0:50 |zajb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 106:288 0:50 |zajc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 107:96 0:50 |zajd
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 107:288 0:50 |zaje
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 108:96 0:50 |zajf
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 108:288 0:50 |zajg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 109:96 0:50 |zajh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 109:288 0:50 |zaji
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 110:96 0:50 |zajj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 110:288 0:50 |zajk
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 111:96 0:50 |zajl
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 111:288 0:50 |zajm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 112:96 0:50 |zajn
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 112:288 0:50 |zajo
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 113:96 0:50 |zajp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 113:288 0:50 |zajq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 114:96 0:50 |zajr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 114:288 0:50 |zajs
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 115:96 0:50 |zajt
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 115:288 0:50 |zaju
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 116:96 0:50 |zajv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 116:288 0:50 |zajw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 117:96 0:50 |zajx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 117:288 0:50 |zajy
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 118:96 0:50 |zajz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 118:288 0:50 |zaka
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 119:96 0:50 |zakb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 119:288 0:50 |zakc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 120:96 0:50 |zakd
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 120:288 0:50 |zake
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 121:96 0:50 |zakf
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 121:288 0:50 |zakg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 122:96 0:50 |zakh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 122:288 0:50 |zaki
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 123:96 0:50 |zakj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 123:288 0:50 |zakk
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 124:96 0:50 |zakl
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 124:288 0:50 |zakm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 125:96 0:50 |zakn
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 125:288 0:50 |zako
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 126:96 0:50 |zakp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 126:288 0:50 |zakq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 127:96 0:50 |zakr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 127:288 0:50 |zaks
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 136:96 0:50 |zakt
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 136:288 0:50 |zaku
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 137:96 0:50 |zakv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 137:288 0:50 |zakw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 138:96 0:50 |zakx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 138:288 0:50 |zaky
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 139:96 0:50 |zakz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 139:288 0:50 |zala
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 140:96 0:50 |zalb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 140:288 0:50 |zalc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 141:96 0:50 |zald
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 141:288 0:50 |zale
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 142:96 0:50 |zalf
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 142:288 0:50 |zalg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 143:96 0:50 |zalh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 143:288 0:50 |zali
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 144:96 0:50 |zalj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 144:288 0:50 |zalk
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 145:96 0:50 |zall
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 145:288 0:50 |zalm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 146:96 0:50 |zaln
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 146:288 0:50 |zalo
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 147:96 0:50 |zalp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 147:288 0:50 |zalq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 148:96 0:50 |zalr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 148:288 0:50 |zals
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 149:96 0:50 |zalt
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 149:288 0:50 |zalu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 150:96 0:50 |zalv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 150:288 0:50 |zalw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 151:96 0:50 |zalx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 151:288 0:50 |zaly
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 152:96 0:50 |zalz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 152:288 0:50 |zama
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 153:96 0:50 |zamb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 153:288 0:50 |zamc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 154:96 0:50 |zamd
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 154:288 0:50 |zame
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 155:96 0:50 |zamf
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 155:288 0:50 |zamg
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 156:96 0:50 |zamh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 156:288 0:50 |zami
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 157:96 0:50 |zamj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 157:192 0:50 |zamk
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 158:0 0:50 |zaml
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 158:192 0:50 |zamm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 159:0 0:50 |zamn
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 159:192 0:50 |zamo
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 160:0 0:50 |zamp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 160:96 0:50 |zamq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 160:288 0:50 |zamr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 161:96 0:50 |zams
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 161:288 0:50 |zamt
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 162:96 0:50 |zamu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 162:192 0:50 |zamv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 163:0 0:50 |zamw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 163:192 0:50 |zamx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 164:0 0:50 |zamy
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 164:192 0:50 |zamz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 164:288 0:50 |zana
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 165:96 0:50 |zanb
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 165:288 0:50 |zanc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 182:96 0:50 |zand
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 182:288 0:50 |zane
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 183:96 0:50 |zanf
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 183:288 0:50 |zang
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 184:96 0:50 |zanh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 184:288 0:50 |zani
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 185:96 0:50 |zanj
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 185:288 0:50 |zank
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 186:96 0:50 |zanl
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 186:288 0:50 |zanm
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 187:96 0:50 |zann
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 187:288 0:50 |zano
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 188:96 0:50 |zanp
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 188:288 0:50 |zanq
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 189:96 0:50 |zanr
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 189:288 0:50 |zans
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 190:96 0:50 |zant
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 190:288 0:50 |zanu
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 191:96 0:50 |zanv
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 191:288 0:50 |zanw
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 192:96 0:50 |zanx
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 192:288 0:50 |zany
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 193:96 0:50 |zanz
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 193:288 0:50 |zaoa
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 194:96 0:50 |zaob
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 194:288 0:50 |zaoc
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 195:96 0:50 |zaod
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 195:288 0:50 |zaoe
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 196:96 0:50 |zaof
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 196:288 0:50 |zaog
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 197:96 0:50 |zaoh
+      'samples/Human clap [2023-04-26 210003].aif'
+    c 197:288 0:50 |zaoi
+      'samples/Human clap [2023-04-26 210003].aif'
+      lane 0
+        c 60:18 21:224 |zaoj
+          'samples/Am - Dark Proggy [2023-04-26 201456].aif'
+          o 1:42
+  trk 8 Audio |ezj
+    c 0:0 1:311 |zaok
+      'samples/Audio 0002 [2025-10-31 032205].aif'
+    c 1:311 46:73 |zaol
+      'samples/Audio 0002 [2025-10-31 031926].aif'
+      o 1:311
+    c 48:0 16:0 |zaom
+      'samples/Audio 0002 [2025-10-31 031926].aif'
+      o 48:0
+    c 73:192 6:192 |zaon
+      'samples/Audio 0002 [2025-10-31 031926].aif'
+      o 73:192
+    c 83:369 0:15 |zaoo
+      'samples/Audio 0002 [2025-10-31 031926].aif'
+      o 84:0
+    c 84:0 1:369 |zaop
+      'samples/Audio 0002 [2025-10-31 031926].aif'
+      o 82:0
+    c 86:0 26:0 |zaoq
+      'samples/Audio 0002 [2025-10-31 031926].aif'
+      o 86:0
+      lane 0
+        c 0:0 143:155 |zaor
+          'samples/Audio 0002 [2025-10-31 031926].aif'
+      lane 1
+        c 0:0 1:311 |zaos
+          'samples/Audio 0002 [2025-10-31 032205].aif'
+  trk 9 14-KORG MS-20 V 13-Group |ugd
+    c 16:0 64:0 |zaot
+      p x x _x x x _x x x _x x _w63 _qd
+        v 100
+        n C5 D#5 E5 C5 D#5 E5 D#5
+    c 112:0 15:0 |zaou
+      p x x _x x x _x x x _x x _w14 _qd
+        v 100
+        n C5 D#5 E5 C5 D#5 E5 D#5
+    c 132:0 12:0 |zaov
+      p x x _x x x _x x x _x x _w11 _qd
+        v 100
+        n C5 D#5 E5 C5 D#5 E5 D#5
+  trk 10 15-KORG MS-20 V 13-Group |sqq
+    c 32:0 56:0 |zaow
+      p x x _x x x _x x x _x x _w55 _qd
+        v 100
+        n C5 D#5 E5 C5 D#5 E5 D#5
+    c 112:0 15:0 |zaox
+      p x x _x x x _x x x _x x _w14 _qd
+        v 100
+        n C5 D#5 E5 C5 D#5 E5 D#5
+    c 132:0 12:0 |zaoy
+      p x x _x x x _x x x _x x _w11 _qd
+        v 100
+        n C5 D#5 E5 C5 D#5 E5 D#5
+  trk 11 16-KORG MS-20 V 13-Group |dmy
+    c 16:0 64:0 |zaoz
+      p x x _x x x _x x x _x x _w63 _qd
+        v 100
+        n C5 D#5 E5 C5 D#5 E5 D#5
+    c 112:0 15:0 |zapa
+      p x x _x x x _x x x _x x _w14 _qd
+        v 100
+        n C5 D#5 E5 C5 D#5 E5 D#5
+    c 140:0 4:0 |zapb
+      p x x _x x x _x x x _x x _w3 _qd
+        v 100
+        n C5 D#5 E5 C5 D#5 E5 D#5
+  trk 12 Vox |ncf
+    c 107:288 0:336 |zapc
+      'samples/Cm - Jazz Speaks [2023-04-26 205839].aif'
+      o 62:252
+      g 0.77
+    c 112:252 0:336 |zapd
+      'samples/Cm - Jazz Speaks [2023-04-26 205839].aif'
+      o 62:252
+      g 0.77
+    c 113:372 0:348 |zape
+      'samples/Cm - Jazz Speaks [2023-04-26 205839].aif'
+      o 63:192
+      g 0.77
+    c 114:366 0:306 |zapf
+      'samples/Cm - Jazz Speaks [2023-04-26 205839].aif'
+      o 64:156
+      g 0.77
+    c 126:0 0:96 |zapg
+      'samples/Cm - Jazz Speaks [2023-04-26 205839].aif'
+      o 63:108
+      g 0.69
+    c 127:78 0:210 |zaph
+      'samples/Cm - Jazz Speaks [2023-04-26 205839].aif'
+      o 64:252
+      g 1.15
+  trk 13 18-Statement Lead |ylt
+    c 132:0 24:0 |zapi
+      p x _h _xxd x _xxd x _q _x x _x x _xxd x _x x _w22 _x
+        v 100
+        n C4 G4 C4 D#4 C4 G4 D#4
+    c 156:0 0:192 |zapj
+      p x _qd _x
+        v 100
+        n C4
+    c 157:288 2:96 |zapk
+      p _q x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd
+        v 100 100 100 100 100 100 127 100
+        n G4 C4 D#4 C4 G4 D#4 G5 C4
+    c 160:0 0:96 |zapl
+    c 160:96 2:0 |zapm
+      p x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd
+        v 100 100 100 100 100 100 127 100
+        n G4 C4 D#4 C4 G4 D#4 D5 C4
+    c 162:96 0:96 |zapn
+    c 162:192 2:0 |zapo
+      p x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd
+        v 100 100 100 100 100 100 127 100
+        n G4 C4 D#4 C4 G4 D#4 F5 C4
+    c 164:192 0:96 |zapp
+    c 164:288 9:96 |zapq
+      p x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x
+        v 100 100 100 100 100 100 127 100 100 100 100 100 100 100 127 100 100 100 100 100 100 100 127 100 100 100 100 100 100 100 127 100 100 100 100 100 100 100 127
+        n G4 C4 D#4 C4 G4 D#4 C5 C4 G4 C4 D#4 C4 G4 D#4 G5 C4 G4 C4 D#4 C4 G4 D#4 F5 C4 G4 C4 D#4 C4 G4 D#4 D5 C4 G4 C4 D#4 C4 G4 D#4 C5
+    c 174:0 24:96 |zapr
+      p x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x x x _h _xxd x _xxd x _q _x x _x x _xxd x _x x xx _xxd
+        v 100 100 100 100 100 100 100 127
+        n C4 G4 C4 D#4 C4 G4 D#4 G5 C4 G4 C4 D#4 C4 G4 D#4 F5 C4 G4 C4 D#4 C4 G4 D#4 D5 C4 G4 C4 D#4 C4 G4 D#4 C5 C4 G4 C4 D#4 C4 G4 D#4 G5 C4 G4 C4 D#4 C4 G4 D#4 D5 C4 G4 C4 D#4 C4 G4 D#4 F5 C4 G4 C4 D#4 C4 G4 D#4 C5 C4 G4 C4 D#4 C4 G4 D#4 G5 C4 G4 C4 D#4 C4 G4 D#4 F5 C4 G4 C4 D#4 C4 G4 D#4 D5 C4 G4 C4 D#4 C4 G4 D#4 C5
+    c 150:152 1:232 |zaps
+    c 0:0 70:41 |zapt
+      p _w20 _xx _s s _hd _xxd _s x _h _xxd s _ww _xxd _s s _hd _xxd _s s _hd s _hd _xx _s s _q _x _s x _q s _qd s _xxd _s s _h _x _s _s x _xxd _s x _h _x s _h _xx _s _s x _qd _x s _xx _s _s s _x _s s _xxd _s s _q _s x _xxd _s s _x _s _s s _x _s _s s _x _s _s s _xxd _s _s x _xxd _s s _q _x _s _s x _xx _s _s s _q _s s _xx _s x _xx s _x _s x _x _s s _xx _s s _xx _s s _xxd _s _s s _h _s s _h _s _s s _h s _xxd _s _s s _q _s s _xx _s _s s _q s _q _x _s s _qd _x _s _s s _qd _s s _xxd _s _s x _xxd _s _s x _qd _s s _qd _s s _h _s _s x _qd _x _s x _qd _s x _qd _x _s _s s _h _x _s _s s _h _x _s s _h _x _s _s s _q _x _s s _xxd _s x~s _q _x s _q _x _s x _xxd _s _s s _q _s _s s _x s _x _s s _x s _x s _s s _x x _x _s _s s _xx x _x _s s _x _s _s s _xx x _x _s s _xxd x~s _xx x _x _s x _w _hd _xx _s _s s _xxd _s q _s s _x _s x~s _xx x _x _s x _x _s x _x _s x _x _s _s s _xx _s s _xx _s s _xx _s x _xx s _qd _x _s s _x _s _s s _xx _s x _x s _xx _s _s s _x x _s x _x s _xx x _x _s s _qd _s s _xx _s x _q _s s _xxd _s _s s _q _x x _x _s x _s x _x x _s x _x _s s _x _s x _x _s x _x _s x _s x _s _s x _x _s s _xx x _s x _xx _s x _x _s _s x _q _s x _x _s _s x _xx _s x _s x _x _s xx _x _s _s x~s _s _s xx~s _x _s xx _xx _s _s x~s _x x _x _s s _x s _x _s x _x _s s _x _s x _x x _x _s s _s _s x~s _x x _x s _x s _x s _x _s s _s x _s _s x _s _s s _s x _s x _s x x _x _s _s s _s x _s x _x _s _s x _x _s x _x _s x _x _s x _x _s x _x _s _s x~s _s x _x _s _s x~s _x _s x~s _x _s x~s _s x~s _xx xx _s s _xx _s xxd _xxd _s _s q~x _xxd _s _s s _xxd _s s _xxd _s x _x _s _s x _x x _x _s x _x x~s _xxd _s x _x _s s _x _s _s x _ww _h _s _s
+        v 100
+        n C4 D4 E4 C4 C#4 C5 B4 C5 C4 A4 G4 E4 C4 C5 C5 D5 D5 D5 D5 D5 D5 D5 D5 D5 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 D4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 C4 D4 C4 D5 C5 C5 C5 B4 B4 B4 B4 F4 F4 F4 F4 F4 F4 F4 E4 E4 E4 C4 C4 D4 D4 D4 D4 D4 E4 E4 E4 E4 F4 F4 D#4 D#4 C#4 C#4 D#4 D#4 C4 D#4 C4 D#4 C4 D#4 G4 D#4 C4 G4 C4 G4 C4 G4 D#4 C4 G4 C4 G4 D#4 C4 G4 G4 A4 G4 F4 D#4 C4 C4 G4 C4 G4 D#4 G4 C4 C4 D#4 G4 C4 D#4 G4 C4 D#4 G4 C4 D#4 G4 C4 D#4 G4 C4 D#4 G4 C4 G4 C4 D#4 C4 G4 D#4 C4 G4 D#4 G4 D#4 C4 G4 C4 G4 G4 C4 G4 C4 C4 C4 C4 C4 C4 C4 G4 G4 G4
+        t -3:7 -3:-1 1:3 0:5 1:10 0:11 0:11 -2:-2 -1:6 1:5 2:13 -2:7 2:5 1:12 -2:-1 . -2:2 2:9 -2:6 -1:-1 0:8 -2:6 -2:0 0:7 -2:0 0:10 -1:2 -2:6 -3:2 -1:1 1:12 2:6 1:11 -3:3 -2:-2 1:-1 1:7 -3:-4 -1:10 0:9 1:11 -1:7 -3:5 0:6 -3:0 1:11 -1:1 1:3 0:7 2:5 -3:2 -1:-1 -1:2 0:11 -3:4 -2:5 -1:8 -3:0 -3:-3 0:10 -2:3 0:-7 -3:5 1:12 -3:4 2:-2 -3:-2 2:5 0:2 1:12 -2:-1 -2:7 1:12 -3:-3 0:11 1:2 1:5 0:2 0:6 0:5 2:4 -2:-2 0:1 1:3 -3:-2 -3:-3 -1:8 1:3 -3:3 2:2 -3:6 -3:6 1:8 -1:2 -2:4 -1:9 1:5 1:5 -3:1 -2:-1 -1:6 1:9 -1:-1 2:12 1:2 0:8 -3:5 -1:7 2:9 -2:3 -1:10 0:6 1:9 -3:2 0:10 0:9 2:8 -1:8 0:4 -1:6 -1:4 0:3 -3:4 1:8 1:1 2:7 2:10 -2:5 0:8 2:7 -1:2 -2:4 -3:-6 2:2 0:9 1:8 -3:6 -2:9 0:2 -2:0 -2:5 -1:10 -2:9 -2:-3 -3:3 -2:0 -1:8 0:5 -1:2 . 0:10 -3:8 -1:8 2:10 0:8 -1:3 -1:8 2:10 2:13 0:2 -3:5 -3:-3 -1:0 1:5 2:4 -3:7 -2:1 -1:1 -1:0 -3:-1 2:8 -3:-3 -3:-2 -2:2 -2:0 2:12 -2:6 -1:10 0:2
+      p _w55 _hd _x _s s _qd x~s _xx _s x _xx _s x _x _s x~s _s x _x _s x~s _xx _s x _s _s x~s _s x _w _qd _s x~s _xx _s x~s _q _s x~s _xx _s xxd _ww _q _x _s x _q x _x _s _s x _x x _x _s x~s _x _s x _x _s _s x~s _xx _s x~s _x _s x _xx x~s _xxd x~s _h _s _s q _w _h _xxd _s x~s _w3 _s
+        v 100
+        n C4 D#4 D#4 D#4 C4 G4 D#4 D#4 C4 G4 G4 D#4 D#4 C4 D#4 G4 D#4 C4 G4 D#4 C4 C4 G4 D#4 D#4 D#4 D#4
+        t -1:10 -3:-2 0:8 -1:10 -3:-3 -2:8 2:4 -2:2 -1:3 1:3 -2:0 -2:6 -1:9 2:2 2:5 0:7 -2:2 1:10 1:6 0:11 0:8 2:7 -3:6 -1:-1 1:10 2:2 1:7
+  trk 14 Audio |kat
+    c 0:0 198:0 |zapu
+      'samples/Audio 0001 [2025-11-02 145016].aif'
+      o 24:192
+      lane 0
+        c 57:4 44:306 |zapv
+          'samples/Audio 0001 [2025-11-02 145016].aif'
+          o 0:4

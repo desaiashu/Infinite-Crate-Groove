@@ -1,0 +1,226 @@
+{
+  "name": "Infinite Crate Groove",
+  "bpm": 126.0,
+  "scale": {
+    "division": "12tet",
+    "system": "western",
+    "root": "C",
+    "mode": "chromatic",
+    "justAnchor": false
+  },
+  "timeSigNumerator": 4,
+  "timeSigDenominator": 4,
+  "tracks": {
+    "gaz": {
+      "id": "gaz",
+      "name": "Kick 1-Group",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "xqc": {
+      "id": "xqc",
+      "name": "Undergroove 1-Group",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "smb": {
+      "id": "smb",
+      "name": "Automated overgroove 4-Group",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "jco": {
+      "id": "jco",
+      "name": "Shakers 4-Group",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "sgn": {
+      "id": "sgn",
+      "name": "Clap 7-Group",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "gbm": {
+      "id": "gbm",
+      "name": "Clap 7-Group",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "xqg": {
+      "id": "xqg",
+      "name": "Clap 7-Group",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "ezj": {
+      "id": "ezj",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "ugd": {
+      "id": "ugd",
+      "name": "14-KORG MS-20 V 13-Group",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "sqq": {
+      "id": "sqq",
+      "name": "15-KORG MS-20 V 13-Group",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "dmy": {
+      "id": "dmy",
+      "name": "16-KORG MS-20 V 13-Group",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "ncf": {
+      "id": "ncf",
+      "name": "Vox",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "ylt": {
+      "id": "ylt",
+      "name": "18-Statement Lead",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "kat": {
+      "id": "kat",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "rpq": {
+      "id": "rpq",
+      "name": "A-Long Reverb",
+      "trackType": "return",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "rmo": {
+      "id": "rmo",
+      "name": "B-Short Reverb",
+      "trackType": "return",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "rlu": {
+      "id": "rlu",
+      "name": "C-Delay - Console 1",
+      "trackType": "return",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    }
+  },
+  "trackOrder": [
+    "gaz",
+    "xqc",
+    "smb",
+    "jco",
+    "sgn",
+    "gbm",
+    "xqg",
+    "ezj",
+    "ugd",
+    "sqq",
+    "dmy",
+    "ncf",
+    "ylt",
+    "kat",
+    "rpq",
+    "rmo",
+    "rlu"
+  ],
+  "groups": {},
+  "sections": {
+    "clm": {
+      "id": "clm",
+      "name": "song",
+      "startBeat": 0.0,
+      "lengthBeats": 796.0,
+      "scale": null,
+      "activeVariation": 0,
+      "variationCount": 0
+    }
+  },
+  "tempoMarkers": [],
+  "keyMarkers": [],
+  "timeSigMarkers": [],
+  "spatialMode": false,
+  "rendererOutputMode": "binaural",
+  "speakerMaps": {},
+  "speakerLevels": {},
+  "speakerMutes": {},
+  "outputBusGains": {},
+  "outputBusMutes": {}
+}
