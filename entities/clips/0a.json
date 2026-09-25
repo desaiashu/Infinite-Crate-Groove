@@ -1,7 +1,7 @@
 {
   "zaaa": {
     "id": "zaaa",
-    "trackId": "gaz",
+    "trackId": "taa",
     "name": "Kick 0001 [2025-10-31 024027].aif",
     "startBeat": 0.0,
     "lengthBeats": 60.0,
@@ -21,7 +21,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 244.0,
+      "endBeats": 248.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -30,7 +34,7 @@
   },
   "zaaq": {
     "id": "zaaq",
-    "trackId": "jco",
+    "trackId": "tad",
     "name": "Shakers 0001 [2025-10-31 024508].aif",
     "startBeat": 0.0,
     "lengthBeats": 573.6145833333334,
@@ -51,7 +55,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 32.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -60,7 +68,7 @@
   },
   "zabl": {
     "id": "zabl",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 29.0,
     "lengthBeats": 0.5208333333333334,
@@ -89,7 +97,7 @@
   },
   "zack": {
     "id": "zack",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 79.0,
     "lengthBeats": 0.5208333333333334,
@@ -118,7 +126,7 @@
   },
   "zadn": {
     "id": "zadn",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 137.0,
     "lengthBeats": 0.5208333333333334,
@@ -147,7 +155,7 @@
   },
   "zaem": {
     "id": "zaem",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 187.0,
     "lengthBeats": 0.5208333333333334,
@@ -176,7 +184,7 @@
   },
   "zafh": {
     "id": "zafh",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 229.0,
     "lengthBeats": 0.5208333333333334,
@@ -205,7 +213,7 @@
   },
   "zafx": {
     "id": "zafx",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 261.0,
     "lengthBeats": 0.5208333333333334,
@@ -234,7 +242,7 @@
   },
   "zagg": {
     "id": "zagg",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 279.0,
     "lengthBeats": 0.5208333333333334,
@@ -263,7 +271,7 @@
   },
   "zagw": {
     "id": "zagw",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 311.0,
     "lengthBeats": 0.5208333333333334,
@@ -292,7 +300,7 @@
   },
   "zahj": {
     "id": "zahj",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 337.0,
     "lengthBeats": 0.5208333333333334,
@@ -321,7 +329,7 @@
   },
   "zahz": {
     "id": "zahz",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 369.0,
     "lengthBeats": 0.5208333333333334,
@@ -350,7 +358,7 @@
   },
   "zaii": {
     "id": "zaii",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 387.0,
     "lengthBeats": 0.5208333333333334,
@@ -379,7 +387,7 @@
   },
   "zaiy": {
     "id": "zaiy",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 419.0,
     "lengthBeats": 0.5208333333333334,
@@ -408,7 +416,7 @@
   },
   "zajd": {
     "id": "zajd",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 429.0,
     "lengthBeats": 0.5208333333333334,
@@ -437,7 +445,7 @@
   },
   "zajt": {
     "id": "zajt",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 461.0,
     "lengthBeats": 0.5208333333333334,
@@ -466,7 +474,7 @@
   },
   "zakc": {
     "id": "zakc",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 479.0,
     "lengthBeats": 0.5208333333333334,
@@ -495,7 +503,7 @@
   },
   "zaks": {
     "id": "zaks",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 511.0,
     "lengthBeats": 0.5208333333333334,
@@ -524,7 +532,7 @@
   },
   "zalf": {
     "id": "zalf",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 569.0,
     "lengthBeats": 0.5208333333333334,
@@ -553,7 +561,7 @@
   },
   "zalv": {
     "id": "zalv",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 601.0,
     "lengthBeats": 0.5208333333333334,
@@ -582,7 +590,7 @@
   },
   "zame": {
     "id": "zame",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 619.0,
     "lengthBeats": 0.5208333333333334,
@@ -611,7 +619,7 @@
   },
   "zamu": {
     "id": "zamu",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 649.0,
     "lengthBeats": 0.5208333333333334,
@@ -640,7 +648,7 @@
   },
   "zanp": {
     "id": "zanp",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 753.0,
     "lengthBeats": 0.5208333333333334,
@@ -669,7 +677,7 @@
   },
   "zaoo": {
     "id": "zaoo",
-    "trackId": "ezj",
+    "trackId": "tah",
     "name": "Audio 0002 [2025-10-31 031926].aif",
     "startBeat": 335.84375,
     "lengthBeats": 0.15625,
@@ -698,7 +706,7 @@
   },
   "zapb": {
     "id": "zapb",
-    "trackId": "dmy",
+    "trackId": "tak",
     "name": "16-KORG MS-20 V 13-Group - clip",
     "startBeat": 560.0,
     "lengthBeats": 16.0,
@@ -707,15 +715,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "epriec",
-          "note": 72,
-          "velocity": 100,
-          "beat": 0.0,
-          "durationBeats": 0.25,
-          "channel": 0
-        },
-        {
-          "id": "eprgrp",
+          "id": "czcjlb",
           "note": 75,
           "velocity": 100,
           "beat": 0.25,
@@ -723,40 +723,48 @@
           "channel": 0
         },
         {
-          "id": "eprgro",
-          "note": 76,
+          "id": "czcjlc",
+          "note": 72,
+          "velocity": 100,
+          "beat": 0.5,
+          "durationBeats": 0.25,
+          "channel": 0
+        },
+        {
+          "id": "czchyr",
+          "note": 75,
           "velocity": 100,
           "beat": 0.75,
           "durationBeats": 0.25,
           "channel": 0
         },
         {
-          "id": "eprlel",
-          "note": 72,
+          "id": "czcgmg",
+          "note": 76,
           "velocity": 100,
-          "beat": 1.0,
+          "beat": 1.25,
           "durationBeats": 0.25,
           "channel": 0
         },
         {
-          "id": "eprlek",
-          "note": 75,
+          "id": "czcgmh",
+          "note": 72,
           "velocity": 100,
           "beat": 1.5,
           "durationBeats": 0.25,
           "channel": 0
         },
         {
-          "id": "eprjkn",
-          "note": 76,
+          "id": "czcdvc",
+          "note": 75,
           "velocity": 100,
-          "beat": 1.75,
+          "beat": 2.0,
           "durationBeats": 0.25,
           "channel": 0
         },
         {
-          "id": "epqdnw",
-          "note": 75,
+          "id": "czccgv",
+          "note": 76,
           "velocity": 100,
           "beat": 2.25,
           "durationBeats": 0.25,
@@ -770,7 +778,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 2.5
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -779,7 +791,7 @@
   },
   "zapr": {
     "id": "zapr",
-    "trackId": "ylt",
+    "trackId": "tam",
     "name": "18-Statement Lead - clip",
     "startBeat": 696.0,
     "lengthBeats": 97.0,
@@ -788,7 +800,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "epipfg",
+          "id": "czjprt",
           "note": 60,
           "velocity": 100,
           "beat": 0.0,
@@ -796,7 +808,7 @@
           "channel": 0
         },
         {
-          "id": "epinot",
+          "id": "czjoec",
           "note": 67,
           "velocity": 100,
           "beat": 3.0,
@@ -804,7 +816,7 @@
           "channel": 0
         },
         {
-          "id": "epjeic",
+          "id": "czjmzb",
           "note": 60,
           "velocity": 100,
           "beat": 4.0,
@@ -812,7 +824,7 @@
           "channel": 0
         },
         {
-          "id": "epjeib",
+          "id": "czjmzc",
           "note": 63,
           "velocity": 100,
           "beat": 5.5,
@@ -820,7 +832,7 @@
           "channel": 0
         },
         {
-          "id": "epjcqq",
+          "id": "czjlll",
           "note": 60,
           "velocity": 100,
           "beat": 6.0,
@@ -828,7 +840,7 @@
           "channel": 0
         },
         {
-          "id": "epjhet",
+          "id": "czjjwo",
           "note": 67,
           "velocity": 100,
           "beat": 7.0,
@@ -836,7 +848,7 @@
           "channel": 0
         },
         {
-          "id": "epjhes",
+          "id": "czjjwp",
           "note": 63,
           "velocity": 100,
           "beat": 7.5,
@@ -844,7 +856,7 @@
           "channel": 0
         },
         {
-          "id": "epjfsf",
+          "id": "czjihs",
           "note": 79,
           "velocity": 127,
           "beat": 7.75,
@@ -852,7 +864,7 @@
           "channel": 0
         },
         {
-          "id": "epjevs",
+          "id": "czjiht",
           "note": 60,
           "velocity": 100,
           "beat": 8.0,
@@ -860,7 +872,7 @@
           "channel": 0
         },
         {
-          "id": "epjevj",
+          "id": "czjgtm",
           "note": 67,
           "velocity": 100,
           "beat": 11.0,
@@ -868,7 +880,7 @@
           "channel": 0
         },
         {
-          "id": "epixhy",
+          "id": "czjfgl",
           "note": 60,
           "velocity": 100,
           "beat": 12.0,
@@ -876,7 +888,7 @@
           "channel": 0
         },
         {
-          "id": "epixhx",
+          "id": "czjfgm",
           "note": 63,
           "velocity": 100,
           "beat": 13.5,
@@ -884,7 +896,7 @@
           "channel": 0
         },
         {
-          "id": "epivto",
+          "id": "czjecb",
           "note": 60,
           "velocity": 100,
           "beat": 14.0,
@@ -892,7 +904,7 @@
           "channel": 0
         },
         {
-          "id": "epjaep",
+          "id": "czjecc",
           "note": 67,
           "velocity": 100,
           "beat": 15.0,
@@ -900,7 +912,7 @@
           "channel": 0
         },
         {
-          "id": "epjaeo",
+          "id": "czjcmp",
           "note": 63,
           "velocity": 100,
           "beat": 15.5,
@@ -908,7 +920,7 @@
           "channel": 0
         },
         {
-          "id": "epiysr",
+          "id": "czjaxs",
           "note": 77,
           "velocity": 127,
           "beat": 15.75,
@@ -916,7 +928,7 @@
           "channel": 0
         },
         {
-          "id": "ephsue",
+          "id": "czjaxt",
           "note": 60,
           "velocity": 100,
           "beat": 16.0,
@@ -924,7 +936,7 @@
           "channel": 0
         },
         {
-          "id": "ephstf",
+          "id": "czizli",
           "note": 67,
           "velocity": 100,
           "beat": 19.0,
@@ -932,7 +944,7 @@
           "channel": 0
         },
         {
-          "id": "ephrgs",
+          "id": "czizlj",
           "note": 60,
           "velocity": 100,
           "beat": 20.0,
@@ -940,7 +952,7 @@
           "channel": 0
         },
         {
-          "id": "ephrgr",
+          "id": "czixwm",
           "note": 63,
           "velocity": 100,
           "beat": 21.5,
@@ -948,7 +960,7 @@
           "channel": 0
         },
         {
-          "id": "ephvvs",
+          "id": "cziwrl",
           "note": 60,
           "velocity": 100,
           "beat": 22.0,
@@ -956,7 +968,7 @@
           "channel": 0
         },
         {
-          "id": "ephuep",
+          "id": "cziwrm",
           "note": 67,
           "velocity": 100,
           "beat": 23.0,
@@ -964,7 +976,7 @@
           "channel": 0
         },
         {
-          "id": "ephueo",
+          "id": "czivcp",
           "note": 63,
           "velocity": 100,
           "beat": 23.5,
@@ -972,7 +984,7 @@
           "channel": 0
         },
         {
-          "id": "ephmqn",
+          "id": "czivem",
           "note": 74,
           "velocity": 127,
           "beat": 23.75,
@@ -980,7 +992,7 @@
           "channel": 0
         },
         {
-          "id": "ephlea",
+          "id": "czmmov",
           "note": 60,
           "velocity": 100,
           "beat": 24.0,
@@ -988,7 +1000,7 @@
           "channel": 0
         },
         {
-          "id": "ephldr",
+          "id": "czmmow",
           "note": 67,
           "velocity": 100,
           "beat": 27.0,
@@ -996,7 +1008,7 @@
           "channel": 0
         },
         {
-          "id": "ephqic",
+          "id": "czmkyd",
           "note": 60,
           "velocity": 100,
           "beat": 28.0,
@@ -1004,7 +1016,7 @@
           "channel": 0
         },
         {
-          "id": "ephqib",
+          "id": "czmjmi",
           "note": 63,
           "velocity": 100,
           "beat": 29.5,
@@ -1012,7 +1024,7 @@
           "channel": 0
         },
         {
-          "id": "ephouy",
+          "id": "czmjmj",
           "note": 60,
           "velocity": 100,
           "beat": 30.0,
@@ -1020,7 +1032,7 @@
           "channel": 0
         },
         {
-          "id": "epifjb",
+          "id": "czmjsw",
           "note": 67,
           "velocity": 100,
           "beat": 31.0,
@@ -1028,7 +1040,7 @@
           "channel": 0
         },
         {
-          "id": "epifja",
+          "id": "czmjsx",
           "note": 63,
           "velocity": 100,
           "beat": 31.5,
@@ -1036,7 +1048,7 @@
           "channel": 0
         },
         {
-          "id": "epidvx",
+          "id": "czmieq",
           "note": 72,
           "velocity": 127,
           "beat": 31.75,
@@ -1044,7 +1056,7 @@
           "channel": 0
         },
         {
-          "id": "epidvw",
+          "id": "czmgsf",
           "note": 60,
           "velocity": 100,
           "beat": 32.0,
@@ -1052,7 +1064,7 @@
           "channel": 0
         },
         {
-          "id": "epihxb",
+          "id": "czmgsg",
           "note": 67,
           "velocity": 100,
           "beat": 35.0,
@@ -1060,7 +1072,7 @@
           "channel": 0
         },
         {
-          "id": "epigog",
+          "id": "czmfcd",
           "note": 60,
           "velocity": 100,
           "beat": 36.0,
@@ -1068,7 +1080,7 @@
           "channel": 0
         },
         {
-          "id": "epigof",
+          "id": "czmfce",
           "note": 63,
           "velocity": 100,
           "beat": 37.5,
@@ -1076,7 +1088,7 @@
           "channel": 0
         },
         {
-          "id": "ephyxs",
+          "id": "czmdpt",
           "note": 60,
           "velocity": 100,
           "beat": 38.0,
@@ -1084,7 +1096,7 @@
           "channel": 0
         },
         {
-          "id": "ephxkh",
+          "id": "czmccc",
           "note": 67,
           "velocity": 100,
           "beat": 39.0,
@@ -1092,7 +1104,7 @@
           "channel": 0
         },
         {
-          "id": "ephxkg",
+          "id": "czmccd",
           "note": 63,
           "velocity": 100,
           "beat": 39.5,
@@ -1100,7 +1112,7 @@
           "channel": 0
         },
         {
-          "id": "epicbt",
+          "id": "czmavg",
           "note": 79,
           "velocity": 127,
           "beat": 39.75,
@@ -1108,7 +1120,7 @@
           "channel": 0
         },
         {
-          "id": "epicbs",
+          "id": "czmavh",
           "note": 60,
           "velocity": 100,
           "beat": 40.0,
@@ -1116,7 +1128,7 @@
           "channel": 0
         },
         {
-          "id": "epianr",
+          "id": "czlzig",
           "note": 67,
           "velocity": 100,
           "beat": 43.0,
@@ -1124,7 +1136,7 @@
           "channel": 0
         },
         {
-          "id": "epgvqg",
+          "id": "czlxrn",
           "note": 60,
           "velocity": 100,
           "beat": 44.0,
@@ -1132,7 +1144,7 @@
           "channel": 0
         },
         {
-          "id": "epgvqf",
+          "id": "czlxro",
           "note": 63,
           "velocity": 100,
           "beat": 45.5,
@@ -1140,7 +1152,7 @@
           "channel": 0
         },
         {
-          "id": "epgubw",
+          "id": "czlwen",
           "note": 60,
           "velocity": 100,
           "beat": 46.0,
@@ -1148,7 +1160,7 @@
           "channel": 0
         },
         {
-          "id": "epgypj",
+          "id": "czlweo",
           "note": 67,
           "velocity": 100,
           "beat": 47.0,
@@ -1156,7 +1168,7 @@
           "channel": 0
         },
         {
-          "id": "epgypi",
+          "id": "czlust",
           "note": 63,
           "velocity": 100,
           "beat": 47.5,
@@ -1164,7 +1176,7 @@
           "channel": 0
         },
         {
-          "id": "epgxfx",
+          "id": "czluse",
           "note": 74,
           "velocity": 127,
           "beat": 47.75,
@@ -1172,7 +1184,7 @@
           "channel": 0
         },
         {
-          "id": "epgxfw",
+          "id": "czltkr",
           "note": 60,
           "velocity": 100,
           "beat": 48.0,
@@ -1180,7 +1192,7 @@
           "channel": 0
         },
         {
-          "id": "epgppb",
+          "id": "czlryg",
           "note": 67,
           "velocity": 100,
           "beat": 51.0,
@@ -1188,7 +1200,7 @@
           "channel": 0
         },
         {
-          "id": "epgoco",
+          "id": "czlryh",
           "note": 60,
           "velocity": 100,
           "beat": 52.0,
@@ -1196,7 +1208,7 @@
           "channel": 0
         },
         {
-          "id": "epgocn",
+          "id": "czlqlw",
           "note": 63,
           "velocity": 100,
           "beat": 53.5,
@@ -1204,7 +1216,7 @@
           "channel": 0
         },
         {
-          "id": "epgsua",
+          "id": "czlqlx",
           "note": 60,
           "velocity": 100,
           "beat": 54.0,
@@ -1212,7 +1224,7 @@
           "channel": 0
         },
         {
-          "id": "epgrfj",
+          "id": "czlouo",
           "note": 67,
           "velocity": 100,
           "beat": 55.0,
@@ -1220,7 +1232,7 @@
           "channel": 0
         },
         {
-          "id": "epgrfi",
+          "id": "czloup",
           "note": 63,
           "velocity": 100,
           "beat": 55.5,
@@ -1228,7 +1240,7 @@
           "channel": 0
         },
         {
-          "id": "ephhzx",
+          "id": "czlnem",
           "note": 77,
           "velocity": 127,
           "beat": 55.75,
@@ -1236,7 +1248,7 @@
           "channel": 0
         },
         {
-          "id": "ephhzw",
+          "id": "czlllh",
           "note": 60,
           "velocity": 100,
           "beat": 56.0,
@@ -1244,7 +1256,7 @@
           "channel": 0
         },
         {
-          "id": "ephgnb",
+          "id": "czllli",
           "note": 67,
           "velocity": 100,
           "beat": 59.0,
@@ -1252,7 +1264,7 @@
           "channel": 0
         },
         {
-          "id": "ephlag",
+          "id": "czljxb",
           "note": 60,
           "velocity": 100,
           "beat": 60.0,
@@ -1260,7 +1272,7 @@
           "channel": 0
         },
         {
-          "id": "ephlaf",
+          "id": "czljxc",
           "note": 63,
           "velocity": 100,
           "beat": 61.5,
@@ -1268,7 +1280,7 @@
           "channel": 0
         },
         {
-          "id": "ephivw",
+          "id": "czliiv",
           "note": 60,
           "velocity": 100,
           "beat": 62.0,
@@ -1276,7 +1288,7 @@
           "channel": 0
         },
         {
-          "id": "ephbgh",
+          "id": "czlgzm",
           "note": 67,
           "velocity": 100,
           "beat": 63.0,
@@ -1284,7 +1296,7 @@
           "channel": 0
         },
         {
-          "id": "ephbgg",
+          "id": "czlgzn",
           "note": 63,
           "velocity": 100,
           "beat": 63.5,
@@ -1292,7 +1304,7 @@
           "channel": 0
         },
         {
-          "id": "epgztd",
+          "id": "czlfkq",
           "note": 72,
           "velocity": 127,
           "beat": 63.75,
@@ -1300,7 +1312,7 @@
           "channel": 0
         },
         {
-          "id": "epgztc",
+          "id": "czlfkr",
           "note": 60,
           "velocity": 100,
           "beat": 64.0,
@@ -1308,7 +1320,7 @@
           "channel": 0
         },
         {
-          "id": "ephejb",
+          "id": "czldxa",
           "note": 67,
           "velocity": 100,
           "beat": 67.0,
@@ -1316,7 +1328,7 @@
           "channel": 0
         },
         {
-          "id": "ephcxu",
+          "id": "czldxb",
           "note": 60,
           "velocity": 100,
           "beat": 68.0,
@@ -1324,7 +1336,7 @@
           "channel": 0
         },
         {
-          "id": "ephcxt",
+          "id": "czlcdg",
           "note": 63,
           "velocity": 100,
           "beat": 69.5,
@@ -1332,7 +1344,7 @@
           "channel": 0
         },
         {
-          "id": "epfxdo",
+          "id": "czlapp",
           "note": 60,
           "velocity": 100,
           "beat": 70.0,
@@ -1340,7 +1352,7 @@
           "channel": 0
         },
         {
-          "id": "epfxdv",
+          "id": "czlapq",
           "note": 67,
           "velocity": 100,
           "beat": 71.0,
@@ -1348,7 +1360,7 @@
           "channel": 0
         },
         {
-          "id": "epfvqc",
+          "id": "czkzfr",
           "note": 63,
           "velocity": 100,
           "beat": 71.5,
@@ -1356,7 +1368,7 @@
           "channel": 0
         },
         {
-          "id": "epgafd",
+          "id": "czkzfc",
           "note": 79,
           "velocity": 127,
           "beat": 71.75,
@@ -1364,7 +1376,7 @@
           "channel": 0
         },
         {
-          "id": "epgafc",
+          "id": "czkxsb",
           "note": 60,
           "velocity": 100,
           "beat": 72.0,
@@ -1372,7 +1384,7 @@
           "channel": 0
         },
         {
-          "id": "epfytn",
+          "id": "czkwdu",
           "note": 67,
           "velocity": 100,
           "beat": 75.0,
@@ -1380,7 +1392,7 @@
           "channel": 0
         },
         {
-          "id": "epfrgc",
+          "id": "czkwdv",
           "note": 60,
           "velocity": 100,
           "beat": 76.0,
@@ -1388,7 +1400,7 @@
           "channel": 0
         },
         {
-          "id": "epfrgb",
+          "id": "czkujk",
           "note": 63,
           "velocity": 100,
           "beat": 77.5,
@@ -1396,7 +1408,7 @@
           "channel": 0
         },
         {
-          "id": "epfprs",
+          "id": "czkujl",
           "note": 60,
           "velocity": 100,
           "beat": 78.0,
@@ -1404,7 +1416,7 @@
           "channel": 0
         },
         {
-          "id": "epfprz",
+          "id": "czksve",
           "note": 67,
           "velocity": 100,
           "beat": 79.0,
@@ -1412,7 +1424,7 @@
           "channel": 0
         },
         {
-          "id": "epfozu",
+          "id": "czkrid",
           "note": 63,
           "velocity": 100,
           "beat": 79.5,
@@ -1420,7 +1432,7 @@
           "channel": 0
         },
         {
-          "id": "epftpl",
+          "id": "czkrie",
           "note": 77,
           "velocity": 127,
           "beat": 79.75,
@@ -1428,7 +1440,7 @@
           "channel": 0
         },
         {
-          "id": "epftpk",
+          "id": "czoiwv",
           "note": 60,
           "velocity": 100,
           "beat": 80.0,
@@ -1436,7 +1448,7 @@
           "channel": 0
         },
         {
-          "id": "epfscp",
+          "id": "czoiww",
           "note": 67,
           "velocity": 100,
           "beat": 83.0,
@@ -1444,7 +1456,7 @@
           "channel": 0
         },
         {
-          "id": "epgius",
+          "id": "czohhz",
           "note": 60,
           "velocity": 100,
           "beat": 84.0,
@@ -1452,7 +1464,7 @@
           "channel": 0
         },
         {
-          "id": "epgiur",
+          "id": "czofoe",
           "note": 63,
           "velocity": 100,
           "beat": 85.5,
@@ -1460,7 +1472,7 @@
           "channel": 0
         },
         {
-          "id": "epghie",
+          "id": "czofof",
           "note": 60,
           "velocity": 100,
           "beat": 86.0,
@@ -1468,7 +1480,7 @@
           "channel": 0
         },
         {
-          "id": "epghil",
+          "id": "czoebu",
           "note": 67,
           "velocity": 100,
           "beat": 87.0,
@@ -1476,7 +1488,7 @@
           "channel": 0
         },
         {
-          "id": "epglxm",
+          "id": "czoebv",
           "note": 63,
           "velocity": 100,
           "beat": 87.5,
@@ -1484,7 +1496,7 @@
           "channel": 0
         },
         {
-          "id": "epgkkz",
+          "id": "czocno",
           "note": 74,
           "velocity": 127,
           "beat": 87.75,
@@ -1492,7 +1504,7 @@
           "channel": 0
         },
         {
-          "id": "epgkky",
+          "id": "czocnp",
           "note": 60,
           "velocity": 100,
           "beat": 88.0,
@@ -1500,7 +1512,7 @@
           "channel": 0
         },
         {
-          "id": "epgcwp",
+          "id": "czobbu",
           "note": 67,
           "velocity": 100,
           "beat": 91.0,
@@ -1508,7 +1520,7 @@
           "channel": 0
         },
         {
-          "id": "epgcwo",
+          "id": "cznzpz",
           "note": 60,
           "velocity": 100,
           "beat": 92.0,
@@ -1516,7 +1528,7 @@
           "channel": 0
         },
         {
-          "id": "epgbkr",
+          "id": "cznzqa",
           "note": 63,
           "velocity": 100,
           "beat": 93.5,
@@ -1524,7 +1536,7 @@
           "channel": 0
         },
         {
-          "id": "epgfzc",
+          "id": "cznybt",
           "note": 60,
           "velocity": 100,
           "beat": 94.0,
@@ -1532,7 +1544,7 @@
           "channel": 0
         },
         {
-          "id": "epgfzj",
+          "id": "cznybu",
           "note": 67,
           "velocity": 100,
           "beat": 95.0,
@@ -1540,7 +1552,7 @@
           "channel": 0
         },
         {
-          "id": "epgdtu",
+          "id": "cznwgd",
           "note": 63,
           "velocity": 100,
           "beat": 95.5,
@@ -1548,7 +1560,7 @@
           "channel": 0
         },
         {
-          "id": "epgdtt",
+          "id": "cznuui",
           "note": 72,
           "velocity": 127,
           "beat": 95.75,

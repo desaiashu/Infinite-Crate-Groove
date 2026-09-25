@@ -1,7 +1,7 @@
 {
   "zaah": {
     "id": "zaah",
-    "trackId": "xqc",
+    "trackId": "tab",
     "name": "Undergroove 0001 [2025-10-31 024039].aif",
     "startBeat": 696.0,
     "lengthBeats": 80.0,
@@ -21,7 +21,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 17.0,
+      "endBeats": 19.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -30,7 +34,7 @@
   },
   "zaax": {
     "id": "zaax",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 1.0,
     "lengthBeats": 0.5208333333333334,
@@ -59,7 +63,7 @@
   },
   "zabe": {
     "id": "zabe",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 15.0,
     "lengthBeats": 0.5208333333333334,
@@ -88,7 +92,7 @@
   },
   "zabu": {
     "id": "zabu",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 47.0,
     "lengthBeats": 0.5208333333333334,
@@ -117,7 +121,7 @@
   },
   "zacb": {
     "id": "zacb",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 61.0,
     "lengthBeats": 0.5208333333333334,
@@ -146,7 +150,7 @@
   },
   "zacr": {
     "id": "zacr",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 93.0,
     "lengthBeats": 0.5208333333333334,
@@ -175,7 +179,7 @@
   },
   "zadg": {
     "id": "zadg",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 123.0,
     "lengthBeats": 0.5208333333333334,
@@ -204,7 +208,7 @@
   },
   "zadw": {
     "id": "zadw",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 155.0,
     "lengthBeats": 0.5208333333333334,
@@ -233,7 +237,7 @@
   },
   "zaed": {
     "id": "zaed",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 169.0,
     "lengthBeats": 0.5208333333333334,
@@ -262,7 +266,7 @@
   },
   "zaet": {
     "id": "zaet",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 201.0,
     "lengthBeats": 0.5208333333333334,
@@ -291,7 +295,7 @@
   },
   "zafa": {
     "id": "zafa",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 215.0,
     "lengthBeats": 0.5208333333333334,
@@ -320,7 +324,7 @@
   },
   "zafq": {
     "id": "zafq",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 247.0,
     "lengthBeats": 0.5208333333333334,
@@ -349,7 +353,7 @@
   },
   "zagn": {
     "id": "zagn",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 293.0,
     "lengthBeats": 0.5208333333333334,
@@ -378,7 +382,7 @@
   },
   "zahc": {
     "id": "zahc",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 323.0,
     "lengthBeats": 0.5208333333333334,
@@ -407,7 +411,7 @@
   },
   "zahs": {
     "id": "zahs",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 355.0,
     "lengthBeats": 0.5208333333333334,
@@ -436,7 +440,7 @@
   },
   "zaip": {
     "id": "zaip",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 401.0,
     "lengthBeats": 0.5208333333333334,
@@ -465,7 +469,7 @@
   },
   "zajm": {
     "id": "zajm",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 447.0,
     "lengthBeats": 0.5208333333333334,
@@ -494,7 +498,7 @@
   },
   "zakj": {
     "id": "zakj",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 493.0,
     "lengthBeats": 0.5208333333333334,
@@ -523,7 +527,7 @@
   },
   "zakz": {
     "id": "zakz",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 557.0,
     "lengthBeats": 0.5208333333333334,
@@ -552,7 +556,7 @@
   },
   "zalo": {
     "id": "zalo",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 587.0,
     "lengthBeats": 0.5208333333333334,
@@ -581,7 +585,7 @@
   },
   "zaml": {
     "id": "zaml",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 632.0,
     "lengthBeats": 0.5208333333333334,
@@ -610,7 +614,7 @@
   },
   "zani": {
     "id": "zani",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 739.0,
     "lengthBeats": 0.5208333333333334,
@@ -639,7 +643,7 @@
   },
   "zany": {
     "id": "zany",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 771.0,
     "lengthBeats": 0.5208333333333334,
@@ -668,7 +672,7 @@
   },
   "zaof": {
     "id": "zaof",
-    "trackId": "xqg",
+    "trackId": "tag",
     "name": "Human clap [2023-04-26 210003].aif",
     "startBeat": 785.0,
     "lengthBeats": 0.5208333333333334,
@@ -697,7 +701,7 @@
   },
   "zaov": {
     "id": "zaov",
-    "trackId": "ugd",
+    "trackId": "tai",
     "name": "14-KORG MS-20 V 13-Group - clip",
     "startBeat": 528.0,
     "lengthBeats": 48.0,
@@ -706,7 +710,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "eptteq",
+          "id": "cyykjp",
           "note": 72,
           "velocity": 100,
           "beat": 0.0,
@@ -714,7 +718,7 @@
           "channel": 0
         },
         {
-          "id": "eptrsl",
+          "id": "cyykjq",
           "note": 75,
           "velocity": 100,
           "beat": 0.25,
@@ -722,7 +726,7 @@
           "channel": 0
         },
         {
-          "id": "epuigg",
+          "id": "cyyivj",
           "note": 76,
           "velocity": 100,
           "beat": 0.75,
@@ -730,7 +734,7 @@
           "channel": 0
         },
         {
-          "id": "epuigf",
+          "id": "cyyhii",
           "note": 72,
           "velocity": 100,
           "beat": 1.0,
@@ -738,7 +742,7 @@
           "channel": 0
         },
         {
-          "id": "epugui",
+          "id": "cyyhij",
           "note": 75,
           "velocity": 100,
           "beat": 1.5,
@@ -746,7 +750,7 @@
           "channel": 0
         },
         {
-          "id": "epulhv",
+          "id": "cyyfuc",
           "note": 76,
           "velocity": 100,
           "beat": 1.75,
@@ -754,7 +758,7 @@
           "channel": 0
         },
         {
-          "id": "epulhu",
+          "id": "cyyfud",
           "note": 75,
           "velocity": 100,
           "beat": 2.25,
@@ -769,7 +773,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 2.5
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -778,7 +786,7 @@
   },
   "zapk": {
     "id": "zapk",
-    "trackId": "ylt",
+    "trackId": "tam",
     "name": "18-Statement Lead - clip",
     "startBeat": 631.0,
     "lengthBeats": 9.0,
@@ -787,7 +795,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "epqkpv",
+          "id": "czezcs",
           "note": 67,
           "velocity": 100,
           "beat": 1.0,
@@ -795,7 +803,7 @@
           "channel": 0
         },
         {
-          "id": "eppeuk",
+          "id": "czexnv",
           "note": 60,
           "velocity": 100,
           "beat": 2.0,
@@ -803,7 +811,7 @@
           "channel": 0
         },
         {
-          "id": "eppdhx",
+          "id": "czewae",
           "note": 63,
           "velocity": 100,
           "beat": 3.5,
@@ -811,7 +819,7 @@
           "channel": 0
         },
         {
-          "id": "eppdhw",
+          "id": "czewaf",
           "note": 60,
           "velocity": 100,
           "beat": 4.0,
@@ -819,7 +827,7 @@
           "channel": 0
         },
         {
-          "id": "epphyl",
+          "id": "czeuqg",
           "note": 67,
           "velocity": 100,
           "beat": 5.0,
@@ -827,7 +835,7 @@
           "channel": 0
         },
         {
-          "id": "epphyk",
+          "id": "czetcp",
           "note": 63,
           "velocity": 100,
           "beat": 5.5,
@@ -835,7 +843,7 @@
           "channel": 0
         },
         {
-          "id": "eppgcb",
+          "id": "czetbk",
           "note": 79,
           "velocity": 127,
           "beat": 5.75,
@@ -843,7 +851,7 @@
           "channel": 0
         },
         {
-          "id": "epoymu",
+          "id": "czetfl",
           "note": 60,
           "velocity": 100,
           "beat": 6.0,

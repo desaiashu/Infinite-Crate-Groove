@@ -11,8 +11,8 @@
   "timeSigNumerator": 4,
   "timeSigDenominator": 4,
   "tracks": {
-    "gaz": {
-      "id": "gaz",
+    "taa": {
+      "id": "taa",
       "name": "Kick 1-Group",
       "trackType": "audio",
       "auditionLane": null,
@@ -21,8 +21,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "xqc": {
-      "id": "xqc",
+    "tab": {
+      "id": "tab",
       "name": "Undergroove 1-Group",
       "trackType": "audio",
       "auditionLane": null,
@@ -31,8 +31,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "smb": {
-      "id": "smb",
+    "tac": {
+      "id": "tac",
       "name": "Automated overgroove 4-Group",
       "trackType": "audio",
       "auditionLane": null,
@@ -41,8 +41,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "jco": {
-      "id": "jco",
+    "tad": {
+      "id": "tad",
       "name": "Shakers 4-Group",
       "trackType": "audio",
       "auditionLane": null,
@@ -51,8 +51,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "sgn": {
-      "id": "sgn",
+    "tae": {
+      "id": "tae",
       "name": "Clap 7-Group",
       "trackType": "audio",
       "auditionLane": null,
@@ -61,8 +61,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "gbm": {
-      "id": "gbm",
+    "taf": {
+      "id": "taf",
       "name": "Clap 7-Group",
       "trackType": "audio",
       "auditionLane": null,
@@ -71,8 +71,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "xqg": {
-      "id": "xqg",
+    "tag": {
+      "id": "tag",
       "name": "Clap 7-Group",
       "trackType": "audio",
       "auditionLane": null,
@@ -81,8 +81,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "ezj": {
-      "id": "ezj",
+    "tah": {
+      "id": "tah",
       "name": "Audio",
       "trackType": "audio",
       "auditionLane": null,
@@ -91,8 +91,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "ugd": {
-      "id": "ugd",
+    "tai": {
+      "id": "tai",
       "name": "14-KORG MS-20 V 13-Group",
       "trackType": "midi",
       "auditionLane": null,
@@ -101,8 +101,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "sqq": {
-      "id": "sqq",
+    "taj": {
+      "id": "taj",
       "name": "15-KORG MS-20 V 13-Group",
       "trackType": "midi",
       "auditionLane": null,
@@ -111,8 +111,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "dmy": {
-      "id": "dmy",
+    "tak": {
+      "id": "tak",
       "name": "16-KORG MS-20 V 13-Group",
       "trackType": "midi",
       "auditionLane": null,
@@ -121,8 +121,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "ncf": {
-      "id": "ncf",
+    "tal": {
+      "id": "tal",
       "name": "Vox",
       "trackType": "audio",
       "auditionLane": null,
@@ -131,8 +131,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "ylt": {
-      "id": "ylt",
+    "tam": {
+      "id": "tam",
       "name": "18-Statement Lead",
       "trackType": "midi",
       "auditionLane": null,
@@ -141,8 +141,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "kat": {
-      "id": "kat",
+    "tan": {
+      "id": "tan",
       "name": "Audio",
       "trackType": "audio",
       "auditionLane": null,
@@ -151,8 +151,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "rpq": {
-      "id": "rpq",
+    "raa": {
+      "id": "raa",
       "name": "A-Long Reverb",
       "trackType": "return",
       "auditionLane": null,
@@ -161,8 +161,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "rmo": {
-      "id": "rmo",
+    "rab": {
+      "id": "rab",
       "name": "B-Short Reverb",
       "trackType": "return",
       "auditionLane": null,
@@ -171,8 +171,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "rlu": {
-      "id": "rlu",
+    "rac": {
+      "id": "rac",
       "name": "C-Delay - Console 1",
       "trackType": "return",
       "auditionLane": null,
@@ -183,28 +183,28 @@
     }
   },
   "trackOrder": [
-    "gaz",
-    "xqc",
-    "smb",
-    "jco",
-    "sgn",
-    "gbm",
-    "xqg",
-    "ezj",
-    "ugd",
-    "sqq",
-    "dmy",
-    "ncf",
-    "ylt",
-    "kat",
-    "rpq",
-    "rmo",
-    "rlu"
+    "taa",
+    "tab",
+    "tac",
+    "tad",
+    "tae",
+    "taf",
+    "tag",
+    "tah",
+    "tai",
+    "taj",
+    "tak",
+    "tal",
+    "tam",
+    "tan",
+    "raa",
+    "rab",
+    "rac"
   ],
   "groups": {},
   "sections": {
-    "clm": {
-      "id": "clm",
+    "vdh": {
+      "id": "vdh",
       "name": "song",
       "startBeat": 0.0,
       "lengthBeats": 796.0,

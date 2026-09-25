@@ -1,5 +1,5 @@
 {
-  "gaz": {
+  "taa": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -12,7 +12,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "xqc": {
+  "tab": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -25,7 +25,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "smb": {
+  "tac": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -38,7 +38,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "jco": {
+  "tad": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -51,7 +51,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "sgn": {
+  "tae": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -64,7 +64,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "gbm": {
+  "taf": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -77,7 +77,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "xqg": {
+  "tag": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -90,7 +90,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "ezj": {
+  "tah": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -103,7 +103,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "ugd": {
+  "tai": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -116,7 +116,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "sqq": {
+  "taj": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -129,7 +129,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "dmy": {
+  "tak": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -142,7 +142,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "ncf": {
+  "tal": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -155,7 +155,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "ylt": {
+  "tam": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -168,7 +168,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "kat": {
+  "tan": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,

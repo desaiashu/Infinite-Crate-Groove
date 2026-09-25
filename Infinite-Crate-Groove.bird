@@ -4,39 +4,39 @@ sig
   scale C chromatic
 
 arr
-  song 199 |clm
+  song 199 |vdh
 
 tracks
-  1 Kick 1-Group |gaz
+  1 Kick 1-Group |taa
     type audio
     fx Console 1
     strip tivraStrip
-  2 Undergroove 1-Group |xqc
+  2 Undergroove 1-Group |tab
     type audio
     fx LFOTool
     fx2 Dist TUBE-CULTURE
     fx3 Console 1
     strip tivraStrip
-  3 Automated overgroove 4-Group |smb
+  3 Automated overgroove 4-Group |tac
     type audio
     fx Console 1
     strip tivraStrip
-  4 Shakers 4-Group |jco
+  4 Shakers 4-Group |tad
     type audio
     fx soothe2
     fx2 Transient Shaper
     fx3 Console 1
     strip tivraStrip
-  5 Clap 7-Group |sgn
+  5 Clap 7-Group |tae
     type audio
     fx Console 1
     strip tivraStrip
-  6 Clap 7-Group |gbm
+  6 Clap 7-Group |taf
     type audio
     fx Tube Delay
     fx2 Console 1
     strip tivraStrip
-  7 Clap 7-Group |xqg
+  7 Clap 7-Group |tag
     type audio
     fx Tube Delay
     fx2 Fosfat
@@ -44,12 +44,12 @@ tracks
     fx4 tivraAutoPan
     fx5 Console 1
     strip tivraStrip
-  8 Audio |ezj
+  8 Audio |tah
     type audio
     fx Dist TUBE-CULTURE
     fx2 Console 1
     strip tivraStrip
-  9 14-KORG MS-20 V 13-Group |ugd
+  9 14-KORG MS-20 V 13-Group |tai
     type midi
     plugin KORG MS-20 V
     fx tivraAutoPan
@@ -57,7 +57,7 @@ tracks
     fx3 Dist TUBE-CULTURE
     fx4 Console 1
     strip tivraStrip
-  10 15-KORG MS-20 V 13-Group |sqq
+  10 15-KORG MS-20 V 13-Group |taj
     type midi
     plugin KORG MS-20 V
     fx tivraAutoPan
@@ -65,7 +65,7 @@ tracks
     fx3 Dist TUBE-CULTURE
     fx4 Console 1
     strip tivraStrip
-  11 16-KORG MS-20 V 13-Group |dmy
+  11 16-KORG MS-20 V 13-Group |tak
     type midi
     plugin KORG MS-20 V
     fx tivraAutoPan
@@ -73,19 +73,19 @@ tracks
     fx3 Dist TUBE-CULTURE
     fx4 Console 1
     strip tivraStrip
-  12 Vox |ncf
+  12 Vox |tal
     type audio
     fx Portal
     fx2 Console 1
     strip tivraStrip
-  13 18-Statement Lead |ylt
+  13 18-Statement Lead |tam
     type midi
     plugin Statement Lead
     fx tivraDelay
     fx2 Tape
     fx3 Console 1
     strip tivraStrip
-  14 Audio |kat
+  14 Audio |tan
     type audio
     fx Rev INTENSITY
     fx2 TSAR-1 Reverb
@@ -93,52 +93,61 @@ tracks
     strip tivraStrip
 
 returns
-  0 A-Long Reverb |rpq
+  0 A-Long Reverb |raa
     fx ValhallaRoom
     fx2 Console 1
     strip tivraStrip
-  1 B-Short Reverb |rmo
+  1 B-Short Reverb |rab
     fx ValhallaRoom
     fx2 Console 1
     strip tivraStrip
-  2 C-Delay - Console 1 |rlu
+  2 C-Delay - Console 1 |rac
     fx tivraDelay
     fx2 Console 1
     strip tivraStrip
 
 sec song
-  trk 1 Kick 1-Group |gaz
+  trk 1 Kick 1-Group |taa
     c 0:0 15:0 |zaaa
+      lp 61:0 62:0
       'samples/Kick 0001 [2025-10-31 024027].aif'
       o 61:0
     c 16:0 111:0 |zaab
+      lp 61:0 62:0
       'samples/Kick 0001 [2025-10-31 024027].aif'
       o 61:0
     c 128:0 27:192 |zaac
+      lp 61:0 62:0
       'samples/Kick 0001 [2025-10-31 024027].aif'
       o 61:0
     c 166:0 4:0 |zaad
+      lp 61:0 62:0
       'samples/Kick 0001 [2025-10-31 024027].aif'
       o 61:0
     c 174:0 20:0 |zaae
+      lp 61:0 62:0
       'samples/Kick 0001 [2025-10-31 024027].aif'
       o 61:0
       lane 0
         c 0:0 143:155 |zaaf
+          lp 61:0 62:0
           'samples/Kick 0001 [2025-10-31 024027].aif'
           o 61:0
-  trk 2 Undergroove 1-Group |xqc
+  trk 2 Undergroove 1-Group |tab
     c 0:0 155:192 |zaag
+      lp 4:96 4:288
       'samples/Undergroove 0001 [2025-10-31 024039].aif'
       o 4:96
     c 174:0 20:0 |zaah
+      lp 4:96 4:288
       'samples/Undergroove 0001 [2025-10-31 024039].aif'
       o 4:96
       lane 0
         c 0:0 143:155 |zaai
+          lp 4:96 4:288
           'samples/Undergroove 0001 [2025-10-31 024039].aif'
           o 4:96
-  trk 3 Automated overgroove 4-Group |smb
+  trk 3 Automated overgroove 4-Group |tac
     c 16:0 48:0 |zaaj
       'samples/Automated overgroove 0001 [2025-11-01 130940].aif'
       o 16:0
@@ -154,35 +163,42 @@ sec song
       lane 0
         c 0:0 65:58 |zaan
           'samples/Automated overgroove 0001 [2025-11-01 130940].aif'
-  trk 4 Shakers 4-Group |jco
+  trk 4 Shakers 4-Group |tad
     c 0:0 96:0 |zaao
+      lp 0:0 8:0
       'samples/Shakers 0001 [2025-10-31 024508].aif'
     c 120:0 7:36 |zaap
       'samples/Shakers 0001 [2025-10-31 024508].aif'
       lane 0
         c 0:0 143:155 |zaaq
+          lp 0:0 8:0
           'samples/Shakers 0001 [2025-10-31 024508].aif'
-  trk 5 Clap 7-Group |sgn
+  trk 5 Clap 7-Group |tae
     c 0:0 127:96 |zaar
+      lp 0:0 16:0
       'samples/Bm - Radiowaves [2023-04-26 201514].aif'
     c 144:0 8:0 |zaas
       'samples/Bm - Radiowaves [2023-04-26 201514].aif'
       lane 0
         c 60:18 21:224 |zaat
+          lp 0:0 16:0
           'samples/Bm - Radiowaves [2023-04-26 201514].aif'
           o 12:18
-  trk 6 Clap 7-Group |gbm
+  trk 6 Clap 7-Group |taf
     c 0:0 127:0 |zaau
+      lp 1:0 3:0
       'samples/Am - Dark Proggy [2023-04-26 201456].aif'
       o 1:24
     c 144:0 8:0 |zaav
+      lp 1:0 3:0
       'samples/Am - Dark Proggy [2023-04-26 201456].aif'
       o 1:24
       lane 0
         c 60:18 21:224 |zaaw
+          lp 1:0 3:0
           'samples/Am - Dark Proggy [2023-04-26 201456].aif'
           o 1:42
-  trk 7 Clap 7-Group |xqg
+  trk 7 Clap 7-Group |tag
     c 0:96 0:50 |zaax
       'samples/Human clap [2023-04-26 210003].aif'
     c 0:288 0:50 |zaay
@@ -885,9 +901,10 @@ sec song
       'samples/Human clap [2023-04-26 210003].aif'
       lane 0
         c 60:18 21:224 |zaoj
+          lp 1:0 3:0
           'samples/Am - Dark Proggy [2023-04-26 201456].aif'
           o 1:42
-  trk 8 Audio |ezj
+  trk 8 Audio |tah
     c 0:0 1:311 |zaok
       'samples/Audio 0002 [2025-10-31 032205].aif'
     c 1:311 46:73 |zaol
@@ -914,46 +931,55 @@ sec song
       lane 1
         c 0:0 1:311 |zaos
           'samples/Audio 0002 [2025-10-31 032205].aif'
-  trk 9 14-KORG MS-20 V 13-Group |ugd
+  trk 9 14-KORG MS-20 V 13-Group |tai
     c 16:0 64:0 |zaot
-      p x x _x x x _x x x _x x _w63 _qd
+      lp 0:0 0:240
+      p x _x x x _x x x x _x x _w63 _qd
         v 100
-        n C5 D#5 E5 C5 D#5 E5 D#5
+        n C5 D#5 E5 D#5 C5 D#5 E5
     c 112:0 15:0 |zaou
+      lp 0:0 0:240
       p x x _x x x _x x x _x x _w14 _qd
         v 100
         n C5 D#5 E5 C5 D#5 E5 D#5
     c 132:0 12:0 |zaov
+      lp 0:0 0:240
       p x x _x x x _x x x _x x _w11 _qd
         v 100
         n C5 D#5 E5 C5 D#5 E5 D#5
-  trk 10 15-KORG MS-20 V 13-Group |sqq
+  trk 10 15-KORG MS-20 V 13-Group |taj
     c 32:0 56:0 |zaow
+      lp 0:0 0:240
       p x x _x x x _x x x _x x _w55 _qd
         v 100
         n C5 D#5 E5 C5 D#5 E5 D#5
     c 112:0 15:0 |zaox
+      lp 0:0 0:240
       p x x _x x x _x x x _x x _w14 _qd
         v 100
         n C5 D#5 E5 C5 D#5 E5 D#5
     c 132:0 12:0 |zaoy
+      lp 0:0 0:240
       p x x _x x x _x x x _x x _w11 _qd
         v 100
         n C5 D#5 E5 C5 D#5 E5 D#5
-  trk 11 16-KORG MS-20 V 13-Group |dmy
+  trk 11 16-KORG MS-20 V 13-Group |tak
     c 16:0 64:0 |zaoz
-      p x x _x x x _x x x _x x _w63 _qd
+      lp 0:0 0:240
+      p x _x x x _x x x x _x x _w63 _qd
         v 100
-        n C5 D#5 E5 C5 D#5 E5 D#5
+        n C5 D#5 E5 D#5 C5 D#5 E5
     c 112:0 15:0 |zapa
+      lp 0:0 0:240
       p x x _x x x _x x x _x x _w14 _qd
         v 100
         n C5 D#5 E5 C5 D#5 E5 D#5
     c 140:0 4:0 |zapb
-      p x x _x x x _x x x _x x _w3 _qd
+      lp 0:0 0:240
+      p _x x x x _x x x _x x x _w3 _qd
         v 100
-        n C5 D#5 E5 C5 D#5 E5 D#5
-  trk 12 Vox |ncf
+        n D#5 C5 D#5 E5 C5 D#5 E5
+  trk 12 Vox |tal
     c 107:288 0:336 |zapc
       'samples/Cm - Jazz Speaks [2023-04-26 205839].aif'
       o 62:252
@@ -978,8 +1004,9 @@ sec song
       'samples/Cm - Jazz Speaks [2023-04-26 205839].aif'
       o 64:252
       g 1.15
-  trk 13 18-Statement Lead |ylt
+  trk 13 18-Statement Lead |tam
     c 132:0 24:0 |zapi
+      lp 0:0 2:0
       p x _h _xxd x _xxd x _q _x x _x x _xxd x _x x _w22 _x
         v 100
         n C4 G4 C4 D#4 C4 G4 D#4
@@ -1020,8 +1047,9 @@ sec song
         v 100
         n C4 D#4 D#4 D#4 C4 G4 D#4 D#4 C4 G4 G4 D#4 D#4 C4 D#4 G4 D#4 C4 G4 D#4 C4 C4 G4 D#4 D#4 D#4 D#4
         t -1:10 -3:-2 0:8 -1:10 -3:-3 -2:8 2:4 -2:2 -1:3 1:3 -2:0 -2:6 -1:9 2:2 2:5 0:7 -2:2 1:10 1:6 0:11 0:8 2:7 -3:6 -1:-1 1:10 2:2 1:7
-  trk 14 Audio |kat
+  trk 14 Audio |tan
     c 0:0 198:0 |zapu
+      lp 24:192 24:240
       'samples/Audio 0001 [2025-11-02 145016].aif'
       o 24:192
       lane 0
