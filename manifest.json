@@ -1,0 +1,46 @@
+{
+  "samples/Am - Dark Proggy [2023-04-26 201456].aif": {
+    "sha256": "033fef94452b9ec7b83ad7220de78ba32e5652f9d58ad8ff69d8307f61e86688",
+    "bytes": 6144054
+  },
+  "samples/Audio 0001 [2025-11-02 145016].aif": {
+    "sha256": "921fcc51af86fc0d48c4cd6eecdada26ebde7f68bc73c62b33b9a9effa12c1c9",
+    "bytes": 24573750
+  },
+  "samples/Audio 0002 [2025-10-31 031926].aif": {
+    "sha256": "03e85eb6ed42ff5130569be6f56f96174fce10ee9c1fd3a08492b470adddbe8e",
+    "bytes": 78667062
+  },
+  "samples/Audio 0002 [2025-10-31 032205].aif": {
+    "sha256": "d473d6a47cc18704009c7d9392980aca6400300a89aa6fd84e37a822837b230f",
+    "bytes": 993078
+  },
+  "samples/Automated overgroove 0001 [2025-11-01 130940].aif": {
+    "sha256": "19b8d7be0b1d3c017ceee424ef6197fe2f8ba478c3f33959c6d2f5a4bab95377",
+    "bytes": 32835894
+  },
+  "samples/Bm - Radiowaves [2023-04-26 201514].aif": {
+    "sha256": "0d7c6ab4367db9cb2376ed02380019b80eebe2ffc3e521ac1bed108e7637eec7",
+    "bytes": 5644854
+  },
+  "samples/Cm - Jazz Speaks [2023-04-26 205839].aif": {
+    "sha256": "c971ebabdee2391edf2aeced51a765ff537e255731dcb38776111236de67a83b",
+    "bytes": 61855622
+  },
+  "samples/Human clap [2023-04-26 210003].aif": {
+    "sha256": "4b93df69b0a9770907449d8278103b8d94e0b2828aab77dda951678ff21f9303",
+    "bytes": 48054
+  },
+  "samples/Kick 0001 [2025-10-31 024027].aif": {
+    "sha256": "6b9cabe94ef42be5cee4903f908900a355ddf4d0f606fda3c42834ddfb292cf2",
+    "bytes": 37913142
+  },
+  "samples/Shakers 0001 [2025-10-31 024508].aif": {
+    "sha256": "7f114ea2dbaf6c603f5e577b5d35a7819bdae8abc6fa944fcbd8996ed9c788ec",
+    "bytes": 9996120
+  },
+  "samples/Undergroove 0001 [2025-10-31 024039].aif": {
+    "sha256": "bffd8f99c0b36973c2740b45d0b28c0cb4fb3c5be55b38b21e99a26d85660c6f",
+    "bytes": 34621710
+  }
+}
