@@ -17,9 +17,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tab": {
       "id": "tab",
@@ -27,9 +27,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tac": {
       "id": "tac",
@@ -37,9 +37,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tad": {
       "id": "tad",
@@ -47,9 +47,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tae": {
       "id": "tae",
@@ -57,9 +57,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "taf": {
       "id": "taf",
@@ -67,9 +67,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tag": {
       "id": "tag",
@@ -77,9 +77,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tah": {
       "id": "tah",
@@ -87,9 +87,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tai": {
       "id": "tai",
@@ -97,9 +97,9 @@
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "taj": {
       "id": "taj",
@@ -107,9 +107,9 @@
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tak": {
       "id": "tak",
@@ -117,9 +117,9 @@
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tal": {
       "id": "tal",
@@ -127,9 +127,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tam": {
       "id": "tam",
@@ -137,9 +137,9 @@
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "tan": {
       "id": "tan",
@@ -147,9 +147,9 @@
       "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "raa": {
       "id": "raa",
@@ -157,9 +157,9 @@
       "trackType": "return",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "rab": {
       "id": "rab",
@@ -167,9 +167,9 @@
       "trackType": "return",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     },
     "rac": {
       "id": "rac",
@@ -177,9 +177,9 @@
       "trackType": "return",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
       "dubState": "empty",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "audioFlipped": false
     }
   },
   "trackOrder": [
