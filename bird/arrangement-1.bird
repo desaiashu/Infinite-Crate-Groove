@@ -9,102 +9,32 @@ arr
 tracks
   1 Kick 1-Group |taa
     type audio
-    fx Console 1
-    strip tivraStrip
   2 Undergroove 1-Group |tab
     type audio
-    fx LFOTool
-    fx2 Dist TUBE-CULTURE
-    fx3 Console 1
-    strip tivraStrip
   3 Automated overgroove 4-Group |tac
     type audio
-    fx Console 1
-    strip tivraStrip
   4 Shakers 4-Group |tad
     type audio
-    fx soothe2
-    fx2 Transient Shaper
-    fx3 Console 1
-    strip tivraStrip
   5 Clap 7-Group |tae
     type audio
-    fx Console 1
-    strip tivraStrip
   6 Clap 7-Group |taf
     type audio
-    fx Tube Delay
-    fx2 Console 1
-    strip tivraStrip
   7 Clap 7-Group |tag
     type audio
-    fx Tube Delay
-    fx2 Fosfat
-    fx3 Dist TUBE-CULTURE
-    fx4 tivraAutoPan
-    fx5 Console 1
-    strip tivraStrip
   8 Audio |tah
     type audio
-    fx Dist TUBE-CULTURE
-    fx2 Console 1
-    strip tivraStrip
   9 14-KORG MS-20 V 13-Group |tai
     type midi
-    plugin KORG MS-20 V
-    fx tivraAutoPan
-    fx2 soothe2
-    fx3 Dist TUBE-CULTURE
-    fx4 Console 1
-    strip tivraStrip
   10 15-KORG MS-20 V 13-Group |taj
     type midi
-    plugin KORG MS-20 V
-    fx tivraAutoPan
-    fx2 soothe2
-    fx3 Dist TUBE-CULTURE
-    fx4 Console 1
-    strip tivraStrip
   11 16-KORG MS-20 V 13-Group |tak
     type midi
-    plugin KORG MS-20 V
-    fx tivraAutoPan
-    fx2 soothe2
-    fx3 Dist TUBE-CULTURE
-    fx4 Console 1
-    strip tivraStrip
   12 Vox |tal
     type audio
-    fx Portal
-    fx2 Console 1
-    strip tivraStrip
   13 18-Statement Lead |tam
     type midi
-    plugin Statement Lead
-    fx tivraDelay
-    fx2 Tape
-    fx3 Console 1
-    strip tivraStrip
   14 Audio |tan
     type audio
-    fx Rev INTENSITY
-    fx2 TSAR-1 Reverb
-    fx3 Console 1
-    strip tivraStrip
-
-returns
-  0 A-Long Reverb |raa
-    fx ValhallaRoom
-    fx2 Console 1
-    strip tivraStrip
-  1 B-Short Reverb |rab
-    fx ValhallaRoom
-    fx2 Console 1
-    strip tivraStrip
-  2 C-Delay - Console 1 |rac
-    fx tivraDelay
-    fx2 Console 1
-    strip tivraStrip
 
 sec song
   trk 1 Kick 1-Group |taa
