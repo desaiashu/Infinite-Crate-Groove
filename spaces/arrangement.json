@@ -225,10 +225,10 @@
     }
   ],
   "spatialMode": true,
-  "rendererOutputMode": "quad",
   "speakerMaps": {},
   "speakerLevels": {},
   "speakerMutes": {},
   "outputBusGains": {},
-  "outputBusMutes": {}
+  "outputBusMutes": {},
+  "rendererOutputMode": "quad"
 }
